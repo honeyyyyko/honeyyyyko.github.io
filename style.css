@@ -411,22 +411,24 @@ body::after {
 
 @media (max-width: 768px) {
     body {
-        padding: 15px 10px 120px;
+        padding: 15px 10px 15px;
         align-items: flex-start;
     }
 
     .book-container {
         width: 100%;
         margin-top: 20px;
+        padding-bottom: 100px;
     }
 
     .book {
         height: auto;
-        min-height: 85vh;
+        min-height: auto;
         max-height: none;
         border-radius: 20px;
         flex-direction: column;
         box-shadow: 0 20px 60px rgba(0, 0, 0, 0.4);
+        margin-bottom: 20px;
     }
 
     .book::before {
@@ -457,11 +459,12 @@ body::after {
     }
 
     .page {
-        padding: 40px 30px;
+        padding: 40px 30px 50px;
         width: 100%;
         height: auto;
-        min-height: 42vh;
-        overflow-y: visible;
+        min-height: 300px;
+        max-height: none;
+        overflow-y: auto;
     }
 
     .page-left {
@@ -551,6 +554,12 @@ body::after {
         max-width: 500px;
         padding: 0;
         z-index: 100;
+        background: rgba(15, 12, 41, 0.95);
+        backdrop-filter: blur(20px);
+        padding: 15px 20px;
+        border-radius: 25px;
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        box-shadow: 0 10px 40px rgba(0, 0, 0, 0.6);
     }
 
     .nav-btn {
@@ -593,21 +602,21 @@ body::after {
 
 @media (max-width: 480px) {
     body {
-        padding: 10px 8px 120px;
+        padding: 10px 8px 10px;
     }
 
     .book-container {
         margin-top: 10px;
+        padding-bottom: 90px;
     }
 
     .book {
-        min-height: 80vh;
         border-radius: 16px;
     }
 
     .page {
-        padding: 35px 25px;
-        min-height: 38vh;
+        padding: 35px 25px 40px;
+        min-height: 250px;
     }
 
     .letter-title {
@@ -654,6 +663,7 @@ body::after {
         bottom: 15px;
         width: calc(100% - 30px);
         gap: 12px;
+        padding: 12px 15px;
     }
 }
 
@@ -668,7 +678,11 @@ body::after {
     }
 
     .page {
-        padding: 30px 20px;
+        padding: 30px 20px 35px;
+    }
+
+    .navigation {
+        padding: 10px 12px;
     }
 }
 

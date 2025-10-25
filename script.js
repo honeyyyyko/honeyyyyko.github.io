@@ -10,7 +10,7 @@ Today marks my first day of courting you, and honestly, I still can’t believe 
 
 Parang panaginip lang na I'm here already, finally taking this step towards you. I’ve admired you, and now that I get to express it, I promise I won’t waste this chance.
 
-Every time I see your smile, it feels like the world softens like roses blooming in spring. And your laughter? Para siyang hangin sa morning, fresh and full of life, like daisies dancing in the sun.
+Every time I see your smile, it feels like the world softens like roses blooming in spring. And your laughter? Para siyang breathe of air, fresh and full of life, like daisies dancing in the sun.
 
 I hope, as you read this, you feel how genuine my intentions are. You’re really special to me, and this, right here, is the start of something I’ll always treasure.
 
