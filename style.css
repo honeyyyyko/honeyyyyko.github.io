@@ -1,0 +1,688 @@
+:root {
+    --maroon: #8B1538;
+    --maroon-dark: #5c0e24;
+    --rose: #E63946;
+    --pink-soft: #FFB6C1;
+    --paper: #FFFCF7;
+    --text: #1a1a1a;
+    --text-light: #666;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 20px;
+    position: relative;
+    overflow: hidden;
+}
+
+body::before {
+    content: '';
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    background: radial-gradient(circle, rgba(255, 182, 193, 0.3), transparent);
+    border-radius: 50%;
+    top: -100px;
+    right: -100px;
+    filter: blur(60px);
+}
+
+body::after {
+    content: '';
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    background: radial-gradient(circle, rgba(230, 57, 70, 0.25), transparent);
+    border-radius: 50%;
+    bottom: -150px;
+    left: -150px;
+    filter: blur(80px);
+}
+
+/* Floating flowers animation */
+.floating-flowers {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 0;
+}
+
+.flower {
+    position: absolute;
+    font-size: 24px;
+    opacity: 0.2;
+    animation: float 15s infinite ease-in-out;
+}
+
+.flower-1 {
+    top: 10%;
+    left: 10%;
+    animation-delay: 0s;
+}
+
+.flower-2 {
+    top: 20%;
+    right: 15%;
+    animation-delay: 2s;
+}
+
+.flower-3 {
+    bottom: 20%;
+    left: 20%;
+    animation-delay: 4s;
+}
+
+.flower-4 {
+    top: 60%;
+    right: 10%;
+    animation-delay: 1s;
+}
+
+.flower-5 {
+    bottom: 30%;
+    right: 30%;
+    animation-delay: 3s;
+}
+
+.flower-6 {
+    top: 70%;
+    left: 15%;
+    animation-delay: 5s;
+}
+
+@keyframes float {
+    0%, 100% {
+        transform: translateY(0) rotate(0deg);
+    }
+    25% {
+        transform: translateY(-20px) rotate(5deg);
+    }
+    50% {
+        transform: translateY(-10px) rotate(-5deg);
+    }
+    75% {
+        transform: translateY(-30px) rotate(3deg);
+    }
+}
+
+.book-container {
+    position: relative;
+    z-index: 1;
+}
+
+.book {
+    width: 1000px;
+    max-width: 95vw;
+    height: 650px;
+    background: var(--paper);
+    border-radius: 24px;
+    box-shadow: 0 50px 100px rgba(0, 0, 0, 0.5),
+                0 20px 40px rgba(139, 21, 56, 0.3);
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    backdrop-filter: blur(10px);
+}
+
+.book::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    background: linear-gradient(90deg, 
+        transparent 0%, 
+        rgba(139, 21, 56, 0.03) 48%, 
+        rgba(139, 21, 56, 0.05) 50%, 
+        rgba(139, 21, 56, 0.03) 52%, 
+        transparent 100%);
+    pointer-events: none;
+}
+
+.spine-marker {
+    position: absolute;
+    left: 50%;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: linear-gradient(180deg, var(--maroon), var(--rose), var(--pink-soft));
+    transform: translateX(-50%);
+    opacity: 0.3;
+}
+
+.heart-divider {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 16px;
+    animation: heartbeat 2s infinite;
+}
+
+@keyframes heartbeat {
+    0%, 100% {
+        transform: translate(-50%, -50%) scale(1);
+    }
+    50% {
+        transform: translate(-50%, -50%) scale(1.2);
+    }
+}
+
+.page {
+    flex: 1;
+    padding: 80px 70px;
+    position: relative;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+}
+
+.page::-webkit-scrollbar {
+    width: 6px;
+}
+
+.page::-webkit-scrollbar-track {
+    background: rgba(139, 21, 56, 0.05);
+    border-radius: 10px;
+}
+
+.page::-webkit-scrollbar-thumb {
+    background: var(--maroon);
+    border-radius: 10px;
+}
+
+.page-left {
+    border-right: 1px solid rgba(139, 21, 56, 0.1);
+}
+
+.letter-header {
+    margin-bottom: 40px;
+    position: relative;
+}
+
+.letter-date {
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--rose);
+    margin-bottom: 12px;
+}
+
+.letter-title {
+    font-family: 'Playfair Display', serif;
+    color: var(--maroon);
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 20px;
+}
+
+.decorative-line {
+    width: 60px;
+    height: 3px;
+    background: linear-gradient(90deg, var(--maroon), var(--rose), transparent);
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.heart-icon {
+    position: absolute;
+    right: -30px;
+    font-size: 16px;
+    animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+    0%, 100% {
+        transform: scale(1);
+        opacity: 0.8;
+    }
+    50% {
+        transform: scale(1.2);
+        opacity: 1;
+    }
+}
+
+/* Corner flowers */
+.corner-flower {
+    position: absolute;
+    font-size: 28px;
+    opacity: 0.3;
+    pointer-events: none;
+    animation: rotate 20s infinite linear;
+}
+
+.top-left {
+    top: 20px;
+    left: 20px;
+}
+
+.top-right {
+    top: 20px;
+    right: 20px;
+}
+
+.bottom-left {
+    bottom: 20px;
+    left: 20px;
+}
+
+.bottom-right {
+    bottom: 20px;
+    right: 20px;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.letter-content {
+    color: var(--text);
+    font-size: 17px;
+    line-height: 1.9;
+    white-space: pre-line;
+    font-weight: 300;
+}
+
+.floral-accent {
+    position: absolute;
+    opacity: 0.08;
+    pointer-events: none;
+}
+
+.rose-accent {
+    top: 40px;
+    right: 50px;
+    width: 120px;
+    height: 120px;
+}
+
+.daisy-accent {
+    bottom: 40px;
+    left: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+.navigation {
+    position: absolute;
+    bottom: -100px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.nav-btn {
+    background: linear-gradient(135deg, rgba(139, 21, 56, 0.95), rgba(230, 57, 70, 0.9));
+    backdrop-filter: blur(10px);
+    color: white;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    padding: 14px 36px;
+    border-radius: 50px;
+    cursor: pointer;
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    box-shadow: 0 8px 20px rgba(139, 21, 56, 0.4);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.btn-flower {
+    font-size: 18px;
+    animation: wiggle 3s infinite;
+}
+
+@keyframes wiggle {
+    0%, 100% {
+        transform: rotate(0deg);
+    }
+    25% {
+        transform: rotate(-10deg);
+    }
+    75% {
+        transform: rotate(10deg);
+    }
+}
+
+.nav-btn:hover:not(:disabled) {
+    background: var(--rose);
+    transform: translateY(-3px);
+    box-shadow: 0 12px 30px rgba(230, 57, 70, 0.5);
+    border-color: rgba(255, 255, 255, 0.2);
+}
+
+.nav-btn:active:not(:disabled) {
+    transform: translateY(-1px);
+}
+
+.nav-btn:disabled {
+    opacity: 0.3;
+    cursor: not-allowed;
+}
+
+.page-indicator {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px);
+    padding: 10px 24px;
+    border-radius: 50px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    position: relative;
+}
+
+.hearts-trail {
+    position: absolute;
+    bottom: -20px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 12px;
+    opacity: 0.6;
+}
+
+.page-number {
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+@media (max-width: 768px) {
+    body {
+        padding: 15px 10px 120px;
+        align-items: flex-start;
+    }
+
+    .book-container {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .book {
+        height: auto;
+        min-height: 85vh;
+        max-height: none;
+        border-radius: 20px;
+        flex-direction: column;
+        box-shadow: 0 20px 60px rgba(0, 0, 0, 0.4);
+    }
+
+    .book::before {
+        background: linear-gradient(180deg, 
+            transparent 0%, 
+            rgba(139, 21, 56, 0.02) 48%, 
+            rgba(139, 21, 56, 0.04) 50%, 
+            rgba(139, 21, 56, 0.02) 52%, 
+            transparent 100%);
+    }
+
+    .spine-marker {
+        width: 100%;
+        height: 2px;
+        top: 50%;
+        left: 0;
+        transform: translateY(-50%);
+        background: linear-gradient(90deg, transparent, var(--maroon), var(--rose), var(--pink-soft), transparent);
+    }
+
+    .heart-divider {
+        left: 50%;
+        top: 50%;
+        font-size: 14px;
+        background: var(--paper);
+        padding: 4px 8px;
+        border-radius: 50%;
+    }
+
+    .page {
+        padding: 40px 30px;
+        width: 100%;
+        height: auto;
+        min-height: 42vh;
+        overflow-y: visible;
+    }
+
+    .page-left {
+        border-right: none;
+        border-bottom: none;
+    }
+
+    .page-right {
+        border-top: none;
+    }
+
+    .letter-date {
+        font-size: 10px;
+        letter-spacing: 1.8px;
+        margin-bottom: 10px;
+    }
+
+    .letter-title {
+        font-size: 32px;
+        margin-bottom: 16px;
+        line-height: 1.1;
+    }
+
+    .letter-content {
+        font-size: 16px;
+        line-height: 1.8;
+    }
+
+    .letter-header {
+        margin-bottom: 30px;
+    }
+
+    .decorative-line {
+        width: 50px;
+    }
+
+    .heart-icon {
+        right: -25px;
+        font-size: 14px;
+    }
+
+    .corner-flower {
+        font-size: 24px;
+        opacity: 0.25;
+    }
+
+    .top-left, .top-right {
+        top: 18px;
+    }
+
+    .bottom-left, .bottom-right {
+        bottom: 18px;
+    }
+
+    .top-left, .bottom-left {
+        left: 18px;
+    }
+
+    .top-right, .bottom-right {
+        right: 18px;
+    }
+
+    .rose-accent {
+        width: 100px;
+        height: 100px;
+        right: 30px;
+        top: 30px;
+        opacity: 0.06;
+    }
+
+    .daisy-accent {
+        width: 85px;
+        height: 85px;
+        left: 30px;
+        bottom: 30px;
+        opacity: 0.06;
+    }
+
+    .navigation {
+        position: fixed;
+        bottom: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+        gap: 15px;
+        flex-wrap: nowrap;
+        width: calc(100% - 40px);
+        max-width: 500px;
+        padding: 0;
+        z-index: 100;
+    }
+
+    .nav-btn {
+        padding: 14px 28px;
+        font-size: 15px;
+        gap: 8px;
+        flex: 1;
+        justify-content: center;
+        white-space: nowrap;
+        min-width: 0;
+    }
+
+    .btn-flower {
+        font-size: 18px;
+    }
+
+    .page-indicator {
+        padding: 10px 20px;
+        order: 0;
+        width: auto;
+        flex: 0 0 auto;
+        text-align: center;
+        background: rgba(255, 255, 255, 0.2);
+    }
+
+    .page-number {
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    .hearts-trail {
+        display: none;
+    }
+
+    .floating-flowers .flower {
+        font-size: 18px;
+        opacity: 0.15;
+    }
+}
+
+@media (max-width: 480px) {
+    body {
+        padding: 10px 8px 120px;
+    }
+
+    .book-container {
+        margin-top: 10px;
+    }
+
+    .book {
+        min-height: 80vh;
+        border-radius: 16px;
+    }
+
+    .page {
+        padding: 35px 25px;
+        min-height: 38vh;
+    }
+
+    .letter-title {
+        font-size: 28px;
+    }
+
+    .letter-content {
+        font-size: 15px;
+        line-height: 1.75;
+    }
+
+    .letter-header {
+        margin-bottom: 25px;
+    }
+
+    .nav-btn {
+        padding: 12px 20px;
+        font-size: 14px;
+        gap: 6px;
+    }
+
+    .btn-flower {
+        font-size: 16px;
+    }
+
+    .page-indicator {
+        padding: 8px 16px;
+    }
+
+    .page-number {
+        font-size: 13px;
+    }
+
+    .corner-flower {
+        font-size: 20px;
+        opacity: 0.2;
+    }
+
+    .rose-accent, .daisy-accent {
+        opacity: 0.04;
+    }
+
+    .navigation {
+        bottom: 15px;
+        width: calc(100% - 30px);
+        gap: 12px;
+    }
+}
+
+@media (max-width: 380px) {
+    .nav-btn {
+        padding: 10px 16px;
+        font-size: 13px;
+    }
+
+    .letter-title {
+        font-size: 24px;
+    }
+
+    .page {
+        padding: 30px 20px;
+    }
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.page-content {
+    animation: fadeIn 0.5s ease;
+}

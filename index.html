@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Letters — A Book-Style Diary</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Playfair+Display:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Floating flowers background -->
+    <div class="floating-flowers">
+        <div class="flower flower-1">🌹</div>
+        <div class="flower flower-2">🌼</div>
+        <div class="flower flower-3">🌹</div>
+        <div class="flower flower-4">🌼</div>
+        <div class="flower flower-5">🌹</div>
+        <div class="flower flower-6">🌼</div>
+    </div>
+
+    <div class="book-container">
+        <div class="book">
+            <div class="spine-marker">
+                <div class="heart-divider">💕</div>
+            </div>
+            
+            <div class="page page-left">
+                <svg class="floral-accent rose-accent" viewBox="0 0 120 120">
+                    <g opacity="0.3">
+                        <circle cx="60" cy="60" r="25" fill="var(--rose)"/>
+                        <circle cx="60" cy="60" r="18" fill="var(--maroon)"/>
+                        <circle cx="60" cy="60" r="10" fill="var(--rose)"/>
+                        <ellipse cx="60" cy="35" rx="12" ry="20" fill="var(--rose)"/>
+                        <ellipse cx="85" cy="60" rx="20" ry="12" fill="var(--rose)"/>
+                        <ellipse cx="60" cy="85" rx="12" ry="20" fill="var(--rose)"/>
+                        <ellipse cx="35" cy="60" rx="20" ry="12" fill="var(--rose)"/>
+                    </g>
+                </svg>
+                
+                <!-- Corner roses -->
+                <div class="corner-flower top-left">🌹</div>
+                <div class="corner-flower bottom-right">🌼</div>
+                
+                <div class="page-content" id="leftContent">
+                    <div class="letter-header">
+                        <div class="letter-date" id="leftDate">October 26, 2025</div>
+                        <h1 class="letter-title" id="leftTitle">Day One</h1>
+                        <div class="decorative-line">
+                            <span class="heart-icon">💖</span>
+                        </div>
+                    </div>
+                    <div class="letter-content" id="leftText"></div>
+                </div>
+            </div>
+            
+            <div class="page page-right">
+                <svg class="floral-accent daisy-accent" viewBox="0 0 100 100">
+                    <g opacity="0.3">
+                        <circle cx="50" cy="50" r="18" fill="#FFD700"/>
+                        <ellipse cx="50" cy="20" rx="10" ry="18" fill="white"/>
+                        <ellipse cx="50" cy="20" rx="10" ry="18" fill="white" transform="rotate(30 50 50)"/>
+                        <ellipse cx="50" cy="20" rx="10" ry="18" fill="white" transform="rotate(60 50 50)"/>
+                        <ellipse cx="50" cy="20" rx="10" ry="18" fill="white" transform="rotate(90 50 50)"/>
+                        <ellipse cx="50" cy="20" rx="10" ry="18" fill="white" transform="rotate(120 50 50)"/>
+                        <ellipse cx="50" cy="20" rx="10" ry="18" fill="white" transform="rotate(150 50 50)"/>
+                    </g>
+                </svg>
+                
+                <!-- Corner flowers -->
+                <div class="corner-flower top-right">🌼</div>
+                <div class="corner-flower bottom-left">🌹</div>
+                
+                <div class="page-content" id="rightContent">
+                    <div class="letter-header">
+                        <div class="letter-date" id="rightDate"></div>
+                        <h1 class="letter-title" id="rightTitle"></h1>
+                        <div class="decorative-line">
+                            <span class="heart-icon">💖</span>
+                        </div>
+                    </div>
+                    <div class="letter-content" id="rightText"></div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="navigation">
+            <button class="nav-btn" id="prevBtn">
+                <span class="btn-flower">🌹</span>
+                ← Previous
+            </button>
+            <div class="page-indicator">
+                <span class="page-number" id="pageNum">Page 1</span>
+                <div class="hearts-trail">💕</div>
+            </div>
+            <button class="nav-btn" id="nextBtn">
+                Next →
+                <span class="btn-flower">🌼</span>
+            </button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
