@@ -699,4 +699,26 @@ body::after {
 
 .page-content {
     animation: fadeIn 0.5s ease;
+
 }
+
+/* FIX: allow scrolling inside pages on mobile */
+@media (max-width: 768px) {
+    html, body {
+        height: auto;
+        overflow-y: auto;
+    }
+
+    .book {
+        height: auto !important;
+        overflow: visible !important;
+        flex-direction: column;
+    }
+
+    .page {
+        overflow-y: visible !important;
+        max-height: none !important;
+        height: auto !important;
+    }
+}
+
