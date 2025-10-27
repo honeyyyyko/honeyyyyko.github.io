@@ -23,7 +23,7 @@ body {
     align-items: center;
     padding: 40px 20px;
     position: relative;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 body::before {
@@ -36,6 +36,7 @@ body::before {
     top: -100px;
     right: -100px;
     filter: blur(60px);
+    pointer-events: none;
 }
 
 body::after {
@@ -48,6 +49,7 @@ body::after {
     bottom: -150px;
     left: -150px;
     filter: blur(80px);
+    pointer-events: none;
 }
 
 /* Floating flowers animation */
@@ -57,6 +59,8 @@ body::after {
     height: 100%;
     pointer-events: none;
     z-index: 0;
+    top: 0;
+    left: 0;
 }
 
 .flower {
@@ -120,11 +124,13 @@ body::after {
 .book-container {
     position: relative;
     z-index: 1;
+    width: 100%;
+    max-width: 1000px;
 }
 
 .book {
-    width: 1000px;
-    max-width: 95vw;
+    width: 100%;
+    max-width: 1000px;
     height: 650px;
     background: var(--paper);
     border-radius: 24px;
@@ -150,6 +156,7 @@ body::after {
         rgba(139, 21, 56, 0.03) 52%, 
         transparent 100%);
     pointer-events: none;
+    z-index: 1;
 }
 
 .spine-marker {
@@ -161,6 +168,7 @@ body::after {
     background: linear-gradient(180deg, var(--maroon), var(--rose), var(--pink-soft));
     transform: translateX(-50%);
     opacity: 0.3;
+    z-index: 2;
 }
 
 .heart-divider {
@@ -170,6 +178,7 @@ body::after {
     transform: translate(-50%, -50%);
     font-size: 16px;
     animation: heartbeat 2s infinite;
+    z-index: 3;
 }
 
 @keyframes heartbeat {
@@ -186,7 +195,9 @@ body::after {
     padding: 80px 70px;
     position: relative;
     overflow-y: auto;
+    overflow-x: hidden;
     scroll-behavior: smooth;
+    z-index: 2;
 }
 
 .page::-webkit-scrollbar {
@@ -228,6 +239,7 @@ body::after {
     font-weight: 700;
     line-height: 1.2;
     margin-bottom: 20px;
+    word-wrap: break-word;
 }
 
 .decorative-line {
@@ -237,7 +249,7 @@ body::after {
     position: relative;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
 }
 
 .heart-icon {
@@ -265,6 +277,7 @@ body::after {
     opacity: 0.3;
     pointer-events: none;
     animation: rotate 20s infinite linear;
+    z-index: 5;
 }
 
 .top-left {
@@ -302,12 +315,15 @@ body::after {
     line-height: 1.9;
     white-space: pre-line;
     font-weight: 300;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
 }
 
 .floral-accent {
     position: absolute;
     opacity: 0.08;
     pointer-events: none;
+    z-index: 0;
 }
 
 .rose-accent {
@@ -332,6 +348,7 @@ body::after {
     display: flex;
     gap: 30px;
     align-items: center;
+    justify-content: center;
 }
 
 .nav-btn {
@@ -370,10 +387,10 @@ body::after {
 }
 
 .nav-btn:hover:not(:disabled) {
-    background: var(--rose);
+    background: linear-gradient(135deg, var(--rose), var(--maroon));
     transform: translateY(-3px);
     box-shadow: 0 12px 30px rgba(230, 57, 70, 0.5);
-    border-color: rgba(255, 255, 255, 0.2);
+    border-color: rgba(255, 255, 255, 0.3);
 }
 
 .nav-btn:active:not(:disabled) {
@@ -401,6 +418,7 @@ body::after {
     transform: translateX(-50%);
     font-size: 12px;
     opacity: 0.6;
+    pointer-events: none;
 }
 
 .page-number {
@@ -409,16 +427,43 @@ body::after {
     font-weight: 500;
 }
 
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.page-content {
+    animation: fadeIn 0.5s ease;
+}
+
+/* Tablet landscape and smaller desktops */
+@media (max-width: 1024px) {
+    .book {
+        max-width: 90vw;
+    }
+    
+    .page {
+        padding: 60px 50px;
+    }
+}
+
+/* Tablet portrait */
 @media (max-width: 768px) {
     body {
-        padding: 15px 10px 15px;
+        padding: 20px 15px 120px;
         align-items: flex-start;
     }
 
     .book-container {
         width: 100%;
         margin-top: 20px;
-        padding-bottom: 100px;
+        padding-bottom: 0;
     }
 
     .book {
@@ -428,7 +473,7 @@ body::after {
         border-radius: 20px;
         flex-direction: column;
         box-shadow: 0 20px 60px rgba(0, 0, 0, 0.4);
-        margin-bottom: 20px;
+        margin-bottom: 0;
     }
 
     .book::before {
@@ -459,17 +504,17 @@ body::after {
     }
 
     .page {
-        padding: 40px 30px 50px;
+        padding: 50px 40px;
         width: 100%;
         height: auto;
-        min-height: 300px;
+        min-height: 350px;
         max-height: none;
         overflow-y: auto;
     }
 
     .page-left {
         border-right: none;
-        border-bottom: none;
+        border-bottom: 1px solid rgba(139, 21, 56, 0.1);
     }
 
     .page-right {
@@ -477,13 +522,13 @@ body::after {
     }
 
     .letter-date {
-        font-size: 10px;
+        font-size: 11px;
         letter-spacing: 1.8px;
         margin-bottom: 10px;
     }
 
     .letter-title {
-        font-size: 32px;
+        font-size: 36px;
         margin-bottom: 16px;
         line-height: 1.1;
     }
@@ -494,7 +539,7 @@ body::after {
     }
 
     .letter-header {
-        margin-bottom: 30px;
+        margin-bottom: 32px;
     }
 
     .decorative-line {
@@ -551,19 +596,18 @@ body::after {
         gap: 15px;
         flex-wrap: nowrap;
         width: calc(100% - 40px);
-        max-width: 500px;
-        padding: 0;
+        max-width: 600px;
+        padding: 15px 20px;
         z-index: 100;
         background: rgba(15, 12, 41, 0.95);
         backdrop-filter: blur(20px);
-        padding: 15px 20px;
         border-radius: 25px;
         border: 1px solid rgba(255, 255, 255, 0.1);
         box-shadow: 0 10px 40px rgba(0, 0, 0, 0.6);
     }
 
     .nav-btn {
-        padding: 14px 28px;
+        padding: 14px 24px;
         font-size: 15px;
         gap: 8px;
         flex: 1;
@@ -595,19 +639,20 @@ body::after {
     }
 
     .floating-flowers .flower {
-        font-size: 18px;
+        font-size: 20px;
         opacity: 0.15;
     }
 }
 
+/* Mobile devices */
 @media (max-width: 480px) {
     body {
-        padding: 10px 8px 10px;
+        padding: 15px 10px 110px;
     }
 
     .book-container {
         margin-top: 10px;
-        padding-bottom: 90px;
+        padding-bottom: 0;
     }
 
     .book {
@@ -615,12 +660,12 @@ body::after {
     }
 
     .page {
-        padding: 35px 25px 40px;
-        min-height: 250px;
+        padding: 40px 30px;
+        min-height: 300px;
     }
 
     .letter-title {
-        font-size: 28px;
+        font-size: 30px;
     }
 
     .letter-content {
@@ -629,11 +674,11 @@ body::after {
     }
 
     .letter-header {
-        margin-bottom: 25px;
+        margin-bottom: 28px;
     }
 
     .nav-btn {
-        padding: 12px 20px;
+        padding: 12px 18px;
         font-size: 14px;
         gap: 6px;
     }
@@ -665,60 +710,84 @@ body::after {
         gap: 12px;
         padding: 12px 15px;
     }
+
+    .floating-flowers .flower {
+        font-size: 18px;
+    }
 }
 
+/* Very small mobile devices */
 @media (max-width: 380px) {
+    body {
+        padding: 10px 8px 100px;
+    }
+
     .nav-btn {
-        padding: 10px 16px;
+        padding: 10px 14px;
         font-size: 13px;
+        gap: 4px;
     }
 
     .letter-title {
-        font-size: 24px;
+        font-size: 26px;
+    }
+
+    .letter-date {
+        font-size: 10px;
     }
 
     .page {
-        padding: 30px 20px 35px;
+        padding: 35px 25px;
+        min-height: 280px;
     }
 
     .navigation {
         padding: 10px 12px;
+        gap: 10px;
+        width: calc(100% - 24px);
+    }
+
+    .page-indicator {
+        padding: 8px 12px;
+    }
+
+    .corner-flower {
+        font-size: 18px;
+    }
+
+    .top-left, .top-right {
+        top: 15px;
+    }
+
+    .bottom-left, .bottom-right {
+        bottom: 15px;
+    }
+
+    .top-left, .bottom-left {
+        left: 15px;
+    }
+
+    .top-right, .bottom-right {
+        right: 15px;
     }
 }
 
-@keyframes fadeIn {
-    from {
-        opacity: 0;
-        transform: translateY(10px);
-    }
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
-}
-
-.page-content {
-    animation: fadeIn 0.5s ease;
-
-}
-
-/* FIX: allow scrolling inside pages on mobile */
-@media (max-width: 768px) {
-    html, body {
-        height: auto;
-        overflow-y: auto;
-    }
-
-    .book {
-        height: auto !important;
-        overflow: visible !important;
-        flex-direction: column;
+/* Landscape orientation fixes for mobile */
+@media (max-width: 768px) and (orientation: landscape) {
+    body {
+        padding: 15px 20px 100px;
     }
 
     .page {
-        overflow-y: visible !important;
-        max-height: none !important;
-        height: auto !important;
+        min-height: 250px;
+        padding: 40px 35px;
+    }
+
+    .letter-title {
+        font-size: 28px;
+    }
+
+    .navigation {
+        bottom: 15px;
     }
 }
-
