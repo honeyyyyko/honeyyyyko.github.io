@@ -39,7 +39,7 @@ Honnnn`
           title: "Day Three — Last Night’s Smile",
           content: `Dear my pretty Honey,
 
-I just want to say — I really enjoyed our lambingan last night. Ang saya lang ng mga moments na ganon po. Every time we laugh or tease each other, it feels like I’m getting even closer to you.
+I just want to say na I really enjoyed po our lambingan last night. Ang saya lang ng mga moments na ganon po. Every time we laugh or tease each other, it feels like I’m getting even closer to you.
 
 Sorry pala sa mga pang-iinis ko hehe 😅 alam mo namang ang kulit ko po minsan. Pero to be honest, I just love seeing you smile especially when it’s because of me.
 
