@@ -48,7 +48,7 @@ I hope today treats you gently, Honey. May your day be filled with warmth, peace
 You make my every day something worth looking forward to. ❤️  
 
 With love,  
-Honn mo na makulit`
+Your makulit na Honn 😛`
 }
     // Add more letters here! Just copy the format above
 ];
