@@ -35,17 +35,21 @@ Yours truly,
 Honnnn`
     },
     {
-       /* date: "October 28, 2025",
-        title: "A Simple Truth",
-        content: `To the one who makes my heart skip,
+          date: "October 28, 2025",
+          title: "Day Three — Last Night’s Smile",
+          content: `Dear my pretty Honey,
 
-There are moments when words fall short, when the depth of what I feel cannot be captured by mere sentences. But I'll try anyway.
+I just want to say — I really enjoyed our lambingan last night. Ang saya lang ng mga moments na ganon po. Every time we laugh or tease each other, it feels like I’m getting even closer to you.
 
-You are my favorite notification, my favorite song, my favorite daydream.
+Sorry pala sa mga pang-iinis ko hehe 😅 alam mo namang ang kulit ko po minsan. Pero to be honest, I just love seeing you smile especially when it’s because of me.
 
-Always,
-[Your Name]`*/
-    }
+I hope today treats you gently, Honey. May your day be filled with warmth, peace, and little moments that make you smile again. Always remember, I’m just here thinking of you, praying for you, and feeling grateful that I get to do this.
+
+You make my every day something worth looking forward to. ❤️  
+
+With love,  
+Honn mo na makulit`
+}
     // Add more letters here! Just copy the format above
 ];
 
