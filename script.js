@@ -49,6 +49,24 @@ You make my every day something worth looking forward to. ❤️
 
 With love,  
 Your makulit na Honn 😛`
+},
+{
+  date: "October 29, 2025",
+  title: "Day Four — A Brand New Day",
+  content: `Dear Honey ko,
+
+Good morning cutie 
+
+I’m so happy knowing you had such a productive day kahapon. I’m always proud of how dedicated and hardworking you are. You make everything you do look so effortless, and it inspires me more than you know.
+
+Pero sana this time, may pahinga ka rin kahit konti po ha? You deserve to rest and enjoy every little thing around you.
+
+I’ve been thinking about you a lot, your smile, your voice, the way you tell stories about your day. It already makes my day complete.
+
+Keep shining, my Honey. I’ll always be here, cheering for you quietly and praying for more good days ahead. You’re doing amazing po and I’m just so lucky I get to witness it.
+
+With all my love,  
+Honnn`
 }
     // Add more letters here! Just copy the format above
 ];
