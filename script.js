@@ -67,6 +67,21 @@ Keep shining, my Honey. I’ll always be here, cheering for you quietly and pray
 
 With all my love,  
 Honnn`
+},{
+  date: "October 30, 2025",
+  title: "Day Five — You’re Beautiful",
+  content: `Dear Honey ko,
+
+
+I just want to say na superrr ganda mo talaga. As in, pretty ka, cute pa, and you have a good heart po. Hindi lang sa itsura, pero sa kung paano ka makitungo, mag-alaga, at magpahalaga sa mga tao sa paligid mo.
+
+You make things feel lighter just by being yourself.
+
+So today, sana good mood ka lang ha? Smile ka palagi, kahit pagod ka or stress. You deserve all the good things in the world, and I’ll keep reminding you of that.
+
+Ingat ka palagi, Honey. I’m always proud of you. 💖
+
+– [Your Name]`
 }
     // Add more letters here! Just copy the format above
 ];
