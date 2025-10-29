@@ -81,7 +81,9 @@ So today, sana good mood ka lang ha? Smile ka palagi, kahit pagod ka or stress. 
 
 Ingat ka palagi, Honey. I’m always proud of you. 💖
 
-– [Your Name]`
+(PS. Sorry po pala kagabi honeyyy, nainis ka tuloy sa akin. I'm really sorry po talaga, bati na tayo okay?)
+
+– Your Honnn`
 }
     // Add more letters here! Just copy the format above
 ];
