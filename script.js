@@ -72,7 +72,6 @@ Honnn`
   title: "Day Five — You’re Beautiful",
   content: `Dear Honey ko,
 
-
 I just want to say na superrr ganda mo talaga. As in, pretty ka, cute pa, and you have a good heart po. Hindi lang sa itsura, pero sa kung paano ka makitungo, mag-alaga, at magpahalaga sa mga tao sa paligid mo.
 
 You make things feel lighter just by being yourself.
