@@ -83,6 +83,21 @@ Ingat ka palagi, Honey. I’m always proud of you. 💖
 (PS. Sorry po pala kagabi honeyyy, nainis ka tuloy sa akin. I'm really sorry po talaga, bati na tayo okay?)
 
 – Your Honnn`
+},
+{
+  date: "October 31, 2025",
+  title: "Day Six — Your Rest Day",
+  content: `Dear Honey ko,
+
+Wala ka palang pasok today, lucky you! Sana you really take this time to rest and enjoy your day. You’ve been working so hard lately, kaya deserve mo talaga ‘tong pahinga.
+
+Spend the day doing things that make you happy kahit mag sleep ka, watch a movie, or just chill quietly. Gusto ko lang na makapag-relax ka, walang stress, walang pressure.
+
+And syempre, kahit wala kang pasok, gusto ko pa rin sabihin… ang ganda mo po pa rin. 
+
+Enjoy your rest day, Honey. You deserve every bit of peace and comfort today. Miss you already. 💖
+
+– Honnnn`
 }
     // Add more letters here! Just copy the format above
 ];
