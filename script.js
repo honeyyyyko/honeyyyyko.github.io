@@ -99,8 +99,7 @@ Enjoy your rest day, Honey. You deserve every bit of peace and comfort today. Mi
 
 – Honnnn`
 }
-    // Add more letters here! Just copy the format above
-];
+];    // Add more letters here! Just copy the format above
 
 // Current page state
 let currentPage = 0;
