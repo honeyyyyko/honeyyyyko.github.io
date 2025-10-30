@@ -89,7 +89,7 @@ Ingat ka palagi, Honey. I’m always proud of you. 💖
   title: "Day Six — Your Rest Day",
   content: `Dear Honey ko,
 
-Wala ka palang pasok today, lucky you! Sana you really take this time to rest and enjoy your day. You’ve been working so hard lately, kaya deserve mo talaga ‘tong pahinga.
+Wala ka po palang pasok today. Sana you really take this time to rest and enjoy your day. You’ve been working so hard lately, kaya deserve mo talaga ‘tong pahinga.
 
 Spend the day doing things that make you happy kahit mag sleep ka, watch a movie, or just chill quietly. Gusto ko lang na makapag-relax ka, walang stress, walang pressure.
 
