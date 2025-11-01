@@ -113,6 +113,21 @@ I can already imagine you there, all pretty and happy, enjoying the day. Grabe, 
 Take care palagi, Honey. Don’t forget to rest din ah? I’ll be here lang, waiting for your kwentos when you get back.
 
 – Your Honn`
+},
+{
+  date: "November 2, 2025",
+  title: "Day Eight — Still Thinking of You",
+  content: `Dear Honey ko,
+
+I’ve been thinking about the message I sent you last night. Hindi ko talaga maiwasan na mag-isip, kasi I care about you so much. Ayokong may ilangan or anything that could make you feel uncomfortable with me.
+
+If ever may nasabi akong mali or something that made you feel off, I’m really sorry, Honey. Alam mo naman, di ko naman po sinasadya. I just want things between us to stay light, happy, and full of good memories.
+
+The whole night ako nag-iisip about you how you’ve been, what you’re doing, if you’re smiling right now. I just hope you’re okay, and that you know how much I you mean to me. You always make my days brighter, kahit minsan may mga maliit na tampuhan.
+
+Have a calm and happy day today, Honey. Smile ka palagi ha? You’re too precious to let little things steal your peace.  
+
+– Your Honn`
 }
 ];    // Add more letters here! Just copy the format above
 
