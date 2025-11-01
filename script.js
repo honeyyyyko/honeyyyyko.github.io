@@ -98,6 +98,21 @@ And syempre, kahit wala kang pasok, gusto ko pa rin sabihin… ang ganda mo po p
 Enjoy your rest day, Honey. You deserve every bit of peace and comfort today. Miss you already. 💖
 
 – Honnnn`
+},
+{
+  date: "November 1, 2025",
+  title: "Day Seven — My Pretty Girl in Tarlac 🌸",
+  content: `Dear Honey ko,
+
+Thank you for updating me, Honey. I’m happy knowing you’re there enjoying your little vacation, deserve mo po yan after being so productive these past days.
+
+Sana you’re having a fun time with your family po ah? You’ve been working hard, so this is your time to just breathe and smile.
+
+I can already imagine you there, all pretty and happy, enjoying the day. Grabe, kahit malayo ka, parang andito ka pa rin kasi you never leave my thoughts 😎
+
+Take care palagi, Honey. Don’t forget to rest din ah? I’ll be here lang, waiting for your kwentos when you get back.
+
+– Your Honn`
 }
 ];    // Add more letters here! Just copy the format above
 
