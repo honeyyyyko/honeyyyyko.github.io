@@ -128,6 +128,21 @@ The whole night ako nag-iisip about you how you’ve been, what you’re doing, 
 Have a calm and happy day today, Honey. Smile ka palagi ha? You’re too precious to let little things steal your peace.  
 
 – Your Honn`
+},
+{
+  date: "November 3, 2025",
+  title: "Day Nine — I’m Here, Honey 🌙",
+  content: `Dear Honey ko,
+
+You told me you’re scared to sleep po. Sana andyan lang ako beside you right now po holding your hand, telling you everything’s okay. I’d cuddle you to sleep if I could, just to make sure you feel safe and calm.
+
+Alam mo, Honey, it’s okay to feel scared minsan. Pero please remember, you’re never alone. Kahit di ako physically beside you, my thoughts and my care are always with you. Close your eyes and imagine me right there.
+
+I hope your sleep po brings you peace, soft dreams, and a quiet heart. You deserve to rest peacefully after all the things you’ve been doing. Wag ka masyadong matakot ok honey? You’re safe, and I’m always just one message and call away po.
+
+Sleep well, my Honey. I’ll be praying that you wake up later with a smile. 💛  
+
+– Your Honn`
 }
 ];    // Add more letters here! Just copy the format above
 
