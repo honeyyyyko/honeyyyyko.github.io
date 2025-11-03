@@ -143,6 +143,21 @@ I hope your sleep po brings you peace, soft dreams, and a quiet heart. You deser
 Sleep well, my Honey. I’ll be praying that you wake up later with a smile. 💛  
 
 – Your Hon Honnn`
+},
+{
+  date: "November 4, 2025",
+  title: "Day Ten — My Pretty Cheerleader 💛",
+  content: `Dear Honey ko,
+
+Thank you for always being supportive, my pretty cheerleader. Kahit busy ako or pagod galing work, andyan ka pa rin understanding, patient, and always making me feel loved. Hindi mo alam kung gaano kalaking bagay ‘yun para sa’kin.
+
+Every time I feel tired, just thinking of you gives me strength. Yung mga reminders mo po, simpleng kumusta, your pics and updates, or lambing mo they make my day lighter. Parang lahat ng pagod, worth it bigla kasi may ikaw na nag care and nag-uunderstand sa’kin.
+
+I’m really grateful for you, Honey. You’ve been my calm, my motivation, and my reason to smile even on hard days. Sana alam mo kung gaano kita na-aappreciate.
+
+Thank you for being you my ever-supportive, pretty, and kind hearted Honey. 💛  
+
+– Your Honn`
 }
 ];    // Add more letters here! Just copy the format above
 
