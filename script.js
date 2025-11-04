@@ -158,6 +158,21 @@ I’m really grateful for you, Honey. You’ve been my calm, my motivation, and 
 Thank you for being you my ever-supportive, pretty, and kind hearted Honey. 💛  
 
 – Your Honn`
+},
+{
+  date: "November 5, 2025",
+  title: "Day Eleven — Even When We’re Busy 💛",
+  content: `Dear Honey ko,
+
+Thank you for being with me kagabi habang pareho tayong busy. I'm really happy po na kahit may ginagawa tayo, we still find time to be there for each other. Kahit simple kumusta or update lang, it means a lot to me.
+
+Thank you din po sa mga pics mo po hehe sobrang nakakagaan ng pakiramdam pag nakikita kita. Kahit pagod ako sa work, school or sa capstone, isang tingin lang sa’yo, okay na ulit lahat.
+
+I really appreciate your effort, Honey. Thank you for always supporting me and understanding me kahit minsan sobrang occupied ko na. You always make things lighter, and I’m so grateful for that.
+
+I miss you already, my pretty cheerleader. 💛  
+
+– Your Honn`
 }
 ];    // Add more letters here! Just copy the format above
 
