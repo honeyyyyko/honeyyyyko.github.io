@@ -194,15 +194,15 @@ Ingat ka lagi ha, honey ko. I miss you always. 🥺💛
   "title": "Day Thirteen — Workwell my honeyyy",
   "content": `Hi Honey ko 💛  
   
-  Happy vacant day! I hope nagagamit mo ng maayos yung time mo para mag-memorize para sa legal subject mo. I know mahirap mag-memorize ng legal terms and cases, pero alam kong kaya mo po yan. 
+Happy vacant day! I hope nagagamit mo ng maayos yung time mo para mag-memorize para sa legal subject mo. I know mahirap mag-memorize ng legal terms and cases, pero alam kong kaya mo po yan. 
   
-  You're so diligent and dedicated sa studies mo, and I'm really proud of you.  Take breaks din ha kapag pagod ka na. Don't push yourself too hard kahit walang class, importante pa rin na magpahinga ka. 
+You're so diligent and dedicated sa studies mo, and I'm really proud of you.  Take breaks din ha kapag pagod ka na. Don't push yourself too hard kahit walang class, importante pa rin na magpahinga ka. 
   
-  Maybe eat your favorite snacks in between memorizing sessions, para hindi masyadong nakaka-drain. Thank you for staying and for always always understanding me. 
+Maybe eat your favorite snacks in between memorizing sessions, para hindi masyadong nakaka-drain. Thank you for staying and for always always understanding me. 
   
-  Good luck for today, honeyyy ko. I believe in you. Kayang kaya mo yan! Take care always po. I miss you always. 🥺💛  
+Good luck for today, honeyyy ko. I believe in you. Kayang kaya mo yan! Take care always po. I miss you always. 🥺💛  
   
-  – Hon Honnnn`
+– Hon Honnnn`
 }
 ];    // `Add more letters here! Just copy the format above
 
