@@ -173,6 +173,21 @@ I really appreciate your effort, Honey. Thank you for always supporting me and u
 I miss you already, my pretty cheerleader. 💛  
 
 – Your Honn`
+},
+{
+  date: "November 6, 2025",
+  title: "Day Twelve — Ikaw Lang Talaga",
+  content: `Dear Honey ko 💛
+
+Parang ikaw lang talaga, baby and honey ko po, walang MOA, walang Marilao, walang kahit sino pa na pwedeng pumalit sayo hehe. Kahit saan pa ako mapadpad, ikaw at ikaw pa rin ang naiisip ko.
+
+You’ve been my comfort lately, my favorite person to talk to, and my reason to smile kahit pagod na sa work or sa buhay. Alam mo yung feeling na kahit ang gulo ng araw mo, once you hear from someone, parang okay na ulit lahat? Ganun yung effect mo sa’kin, honey ko.
+
+Thank you for staying, for understanding, and for just being *you*. I don’t need big things or kahit anong bawi basta ikaw, sapat na.
+
+Ingat ka lagi ha, honey ko. I miss you always. 🥺💛  
+
+– Your Hon Honnnn`
 }
 ];    // Add more letters here! Just copy the format above
 
