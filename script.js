@@ -190,8 +190,8 @@ Ingat ka lagi ha, honey ko. I miss you always. 🥺💛
 – Your Hon Honnnn`
 },
 {
-  "date": "November 8, 2025",
-  "title": "Day Fourteen — Workwell my honeyyy",
+  "date": "November 7, 2025",
+  "title": "Day Thirteen — Workwell my honeyyy",
   "content": `Hi Honey ko 💛  
   
   Happy vacant day! I hope nagagamit mo ng maayos yung time mo para mag-memorize para sa legal subject mo. I know mahirap mag-memorize ng legal terms and cases, pero alam kong kaya mo po yan. 
