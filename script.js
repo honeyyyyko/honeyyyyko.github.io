@@ -188,8 +188,23 @@ Thank you for staying, for understanding, and for just being you. I don’t need
 Ingat ka lagi ha, honey ko. I miss you always. 🥺💛  
 
 – Your Hon Honnnn`
+},
+{
+  "date": "November 8, 2025",
+  "title": "Day Fourteen — Workwell my honeyyy",
+  "content": `Hi Honey ko 💛  
+  
+  Happy vacant day! I hope nagagamit mo ng maayos yung time mo para mag-memorize para sa legal subject mo. I know mahirap mag-memorize ng legal terms and cases, pero alam kong kaya mo po yan. 
+  
+  You're so diligent and dedicated sa studies mo, and I'm really proud of you.  Take breaks din ha kapag pagod ka na. Don't push yourself too hard kahit walang class, importante pa rin na magpahinga ka. 
+  
+  Maybe eat your favorite snacks in between memorizing sessions, para hindi masyadong nakaka-drain. Thank you for staying and for always always understanding me. 
+  
+  Good luck for today, honeyyy ko. I believe in you. Kayang kaya mo yan! Take care always po. I miss you always. 🥺💛  
+  
+  – Hon Honnnn`
 }
-];    // Add more letters here! Just copy the format above
+];    // `Add more letters here! Just copy the format above
 
 // Current page state
 let currentPage = 0;
