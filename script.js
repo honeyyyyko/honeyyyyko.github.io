@@ -183,7 +183,7 @@ Parang ikaw lang talaga, baby and honey ko po, walang MOA, walang Marilao, walan
 
 You’ve been my comfort lately, my favorite person to talk to, and my reason to smile kahit pagod na sa work or sa buhay. Alam mo yung feeling na kahit ang gulo ng araw mo, once you hear from someone, parang okay na ulit lahat? Ganun yung effect mo sa’kin, honey ko.
 
-Thank you for staying, for understanding, and for just being <b>you</b>. I don’t need big things or kahit anong bawi basta ikaw, sapat na.
+Thank you for staying, for understanding, and for just being you. I don’t need big things or kahit anong bawi basta ikaw, sapat na.
 
 Ingat ka lagi ha, honey ko. I miss you always. 🥺💛  
 
