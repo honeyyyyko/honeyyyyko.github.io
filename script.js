@@ -203,7 +203,24 @@ Maybe eat your favorite snacks in between memorizing sessions, para hindi masyad
 Good luck for today, honeyyy ko. I believe in you. Kayang kaya mo yan! Take care always po. I miss you always. 🥺💛  
   
 – Hon Honnnn`
+},
+{
+  date: "November 8, 2025",
+  title: "Day Fourteen — My Safe Place",
+  content: `Dear Honey ko,
+
+Ewan ko, pero every time I think about you, napapangiti na lang me. Kahit simpleng chat or pic mo, parang matic good mood agad ako lods.
+
+You’ve been my calm lately, my safe place after long tiring day. Kahit busy ako or sabaw na sa pagod, pag naririnig ko lang boses mo or nakikita kita, parang lahat worth it ulit.
+
+Thank you for always being patient with me, for staying, and for reminding me that I’m doing okay even when I doubt myself. You don’t know how much that means to me.
+
+I hope today’s kind to you, Honey. Smile ha? You’re too pretty to frown. 😚🌼  
+
+– Honnnn`
 }
+
+
 ];    // `Add more letters here! Just copy the format above
 
 // Current page state
@@ -283,4 +300,5 @@ document.addEventListener('keydown', (e) => {
 });
 
 // Initialize on page load
+
 displayPage();
