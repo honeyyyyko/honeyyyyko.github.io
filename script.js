@@ -227,11 +227,9 @@ I hope today’s kind to you, Honey. Smile ha? You’re too pretty to frown. �
 I just want to say how grateful and lucky I am na dumating ka po sa buhay ko, my honeyyy.  
 You’ve made my days lighter, my nights calmer, and my heart a lot happier. I didn’t expect someone like you to come along, someone who could make even hard or even ordinary day feels more special, parang mas nag karoon ng purpose ang pag wake up ko each day.
 
-I’m really happy seeing you happy, honeyyy.  
-Kagabi, ang saya ko lang knowing you enjoyed the simple reward I gave. It wasn’t much, but the way your eyes lit up and how genuine your smile was sobra na ‘yon para sa’kin. That moment alone made everything worth it.
+I’m really happy seeing you happy, honeyyy.  Kagabi, ang saya ko lang knowing you enjoyed the simple reward I gave. It wasn’t much, but the way your eyes lit up and how genuine your smile was sobra na ‘yon para sa’kin. That moment alone made everything worth it.
 
-Thank you for being you for your warmth, your effort, and for making me feel that what I do matters.  
-You’re one of the biggest blessings I’ve ever had, honey ko, and I’ll never get tired of reminding you how thankful I am for you. 💛
+Thank you for being you for your warmth, your effort, and for making me feel that what I do matters.  You’re one of the biggest blessings I’ve ever had, honey ko, and I’ll never get tired of reminding you how thankful I am for you. 💛
 
 That’s why lalab kita always, and di yun magbabago. 💛  
 
