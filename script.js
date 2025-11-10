@@ -234,6 +234,21 @@ Thank you for being you for your warmth, your effort, and for making me feel tha
 That’s why lalab kita always, and di yun magbabago. 💛  
 
 – Your Hon Honnn`
+},
+{
+  date: "November 10, 2025",
+  title: "Day Sixteen — I'm so happyyy",
+  content: `Dear Honey ko 💛
+  
+Sobrang saya ko kagabi, lalo na nung sinabi mong nakikita mo me sa future mo po. 🥹 Ang sarap lang sa feeling marinig yun, Honeyyyy. Pero di ko pa rin makalimutan yung sa usapan natin about sa anak HAHAHA.  
+You want na 5, ako 2 lang kaya ayun, meet halfway nalang tayo WAHAHAHA, tatlo lang sagad! 😂
+
+Sorry rin sa naging usapan natin kagabi ha alam mo na yun hehehe, medyo di ko inexpect na aabot sa ganun. Pero okay lang, lilipas din ‘to, Honeyyy. Wag mo na masyadong isipin, okay? Let’s just laugh it off and move forward gaya ng dati. Sorry honeyy if somewhat naging uncomfy ka about dun.
+
+Ang importante, okay tayo happy and patuloy na nagkakaintindihan. I’m just really happy knowing na kahit ganun ka-busy or pagod, andiyan ka pa rin.  
+Thank you for being you, Honey. 💛  
+
+– Your Hon Honnn`
 }
 
 
