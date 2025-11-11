@@ -249,6 +249,22 @@ Ang importante, okay tayo happy and patuloy na nagkakaintindihan. I’m just rea
 Thank you for being you, Honey. 💛  
 
 – Your Hon Honnn`
+},
+{
+  date: "November 11, 2025",
+  title: "Day Seventeen — Such a blessing",
+  content: `Dear Honey ko 💛
+
+Today, I just want to say how truly grateful I am for you.  
+Alam mo, minsan naiisip ko talaga kung gaano ako kalucky kasi sa dami ng tao sa mundo, ikaw pa yung ibinigay ni Lord sa’kin. You’re more than what I ever prayed for, Honey. You came into my life at the right time, when I didn’t even know I needed someone like you.
+
+You’ve been nothing but kind, patient, and understanding and every single day, I thank God for sending me someone as genuine and loving as you.  
+You make my world softer, lighter, and so much better just by being in it.
+
+No matter how busy or pagod ako, you always find ways to make me smile and feel at peace.  
+Thank you for being my answered prayer, my blessing, my Honey. 💛  
+
+– Your Playmate 😛`
 }
 
 
