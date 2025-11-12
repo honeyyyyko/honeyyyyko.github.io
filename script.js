@@ -265,6 +265,21 @@ No matter how busy or pagod ako, you always find ways to make me smile and feel 
 Thank you for being my answered prayer, my blessing, my Honey. 💛  
 
 – Your Hon Honnn`
+},
+{
+  date: "November 12, 2025",
+  title: "Day Eighteen — Still Grateful",
+  content: `Hi honey 💛
+
+Woke up today just feeling thankful for you.  
+Alam mo ‘yung feeling na kahit pagod or sabog minsan, okay lang kasi andiyan ka? Ganun lagi. I’m really grateful na dumating ka sa life ko po.
+
+Sobrang bait ni Lord sakin for letting me meet someone like you.  
+You’re thoughtful, understanding, and you have such a good heart. Kahit simple lang mga araw natin minsan, masaya pa rin kasi kasama ka.
+
+Ingat ka lagi ha, and enjoy your day.  
+
+– Honn`
 }
 
 
