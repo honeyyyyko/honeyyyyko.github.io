@@ -6,13 +6,13 @@ const letters = [
         title: "Day One — The Beginning",
         content: `Dear Honey ko,
 
-Today marks my first day of courting you, and honestly, I still can’t believe this is really happening. I prayed for this moment for the chance to show you how much you mean to me.
+Today marks my first day of courting you, and honestly, I still can't believe this is really happening. I prayed for this moment for the chance to show you how much you mean to me.
 
-Parang panaginip lang na I'm here already, finally taking this step towards you. I’ve admired you, and now that I get to express it, I promise I won’t waste this chance.
+Parang panaginip lang na I'm here already, finally taking this step towards you. I've admired you, and now that I get to express it, I promise I won't waste this chance.
 
 Every time I see your smile, it feels like the world softens like roses blooming in spring. And when I see your pretty face? It reminds me of daisies dancing in the sun.
 
-I hope, as you read this, you feel how genuine my intentions are. You’re really special to me, and this, right here, is the start of something I’ll always treasure.
+I hope, as you read this, you feel how genuine my intentions are. You're really special to me, and this, right here, is the start of something I'll always treasure.
 
 With all my heart,  
 Your Hon :))`
@@ -22,7 +22,7 @@ Your Hon :))`
         title: "Day Two - A Lovely day ahead",
         content: `Dear Honey ko,
 
-I just wanted to remind you how special you are to me. Every day that I get to talk to you or even think of you feels like a blessing I’ll never get tired of thanking God for.
+I just wanted to remind you how special you are to me. Every day that I get to talk to you or even think of you feels like a blessing I'll never get tired of thanking God for.
 
 I hope today brings you nothing but peace, happiness, and smiles the kind that light up your face and make my heart skip a beat. May your day be filled with good vibes, laughter, and the warmth of people who love you… especially me.
 
@@ -36,14 +36,14 @@ Honnnn`
     },
     {
           date: "October 28, 2025",
-          title: "Day Three — Last Night’s Smile",
+          title: "Day Three — Last Night's Smile",
           content: `Dear my pretty Honey,
 
-I just want to say na I really enjoyed po our lambingan last night. Ang saya lang ng mga moments na ganon po. Every time we laugh or tease each other, it feels like I’m getting even closer to you.
+I just want to say na I really enjoyed po our lambingan last night. Ang saya lang ng mga moments na ganon po. Every time we laugh or tease each other, it feels like I'm getting even closer to you.
 
-Sorry pala sa mga pang-iinis ko hehe 😅 alam mo namang ang kulit ko po minsan. Pero to be honest, I just love seeing you smile especially when it’s because of me.
+Sorry pala sa mga pang-iinis ko hehe 😅 alam mo namang ang kulit ko po minsan. Pero to be honest, I just love seeing you smile especially when it's because of me.
 
-I hope today treats you gently, Honey. May your day be filled with warmth, peace, and little moments that make you smile again. Always remember, I’m just here thinking of you, praying for you, and feeling grateful that I get to do this.
+I hope today treats you gently, Honey. May your day be filled with warmth, peace, and little moments that make you smile again. Always remember, I'm just here thinking of you, praying for you, and feeling grateful that I get to do this.
 
 You make my every day something worth looking forward to. ❤️  
 
@@ -57,28 +57,28 @@ Your makulit na Honn 😛`
 
 Good morning cutie 
 
-I’m so happy knowing you had such a productive day kahapon. I’m always proud of how dedicated and hardworking you are. You make everything you do look so effortless, and it inspires me more than you know.
+I'm so happy knowing you had such a productive day kahapon. I'm always proud of how dedicated and hardworking you are. You make everything you do look so effortless, and it inspires me more than you know.
 
 Pero sana this time, may pahinga ka rin kahit konti po ha? You deserve to rest and enjoy every little thing around you.
 
-I’ve been thinking about you a lot, your smile, your voice, the way you tell stories about your day. It already makes my day complete.
+I've been thinking about you a lot, your smile, your voice, the way you tell stories about your day. It already makes my day complete.
 
-Keep shining, my Honey. I’ll always be here, cheering for you quietly and praying for more good days ahead. You’re doing amazing po and I’m just so lucky I get to witness it.
+Keep shining, my Honey. I'll always be here, cheering for you quietly and praying for more good days ahead. You're doing amazing po and I'm just so lucky I get to witness it.
 
 With all my love,  
 Honnn`
 },{
   date: "October 30, 2025",
-  title: "Day Five — You’re Beautiful",
+  title: "Day Five — You're Beautiful",
   content: `Dear Honey ko,
 
 I just want to say na superrr ganda mo talaga. As in, pretty ka, cute pa, and you have a good heart po. Hindi lang sa itsura, pero sa kung paano ka makitungo, mag-alaga, at magpahalaga sa mga tao sa paligid mo.
 
 You make things feel lighter just by being yourself.
 
-So today, sana good mood ka lang ha? Smile ka palagi, kahit pagod ka or stress. You deserve all the good things in the world, and I’ll keep reminding you of that.
+So today, sana good mood ka lang ha? Smile ka palagi, kahit pagod ka or stress. You deserve all the good things in the world, and I'll keep reminding you of that.
 
-Ingat ka palagi, Honey. I’m always proud of you. 💖
+Ingat ka palagi, Honey. I'm always proud of you. 💖
 
 (PS. Sorry po pala kagabi honeyyy, nainis ka tuloy sa akin. I'm really sorry po talaga, bati na tayo okay?)
 
@@ -89,7 +89,7 @@ Ingat ka palagi, Honey. I’m always proud of you. 💖
   title: "Day Six — Your Rest Day",
   content: `Dear Honey ko,
 
-Wala ka po palang pasok today. Sana you really take this time to rest and enjoy your day. You’ve been working so hard lately, kaya deserve mo talaga ‘tong pahinga.
+Wala ka po palang pasok today. Sana you really take this time to rest and enjoy your day. You've been working so hard lately, kaya deserve mo talaga 'tong pahinga.
 
 Spend the day doing things that make you happy kahit mag sleep ka, watch a movie, or just chill quietly. Gusto ko lang na makapag-relax ka, walang stress, walang pressure.
 
@@ -104,13 +104,13 @@ Enjoy your rest day, Honey. You deserve every bit of peace and comfort today. Mi
   title: "Day Seven — My Pretty Girl in Tarlac 🌸",
   content: `Dear Honey ko,
 
-Thank you for updating me, Honey. I’m happy knowing you’re there enjoying your little vacation, deserve mo po yan after being so productive these past days.
+Thank you for updating me, Honey. I'm happy knowing you're there enjoying your little vacation, deserve mo po yan after being so productive these past days.
 
-Sana you’re having a fun time with your family po ah? You’ve been working hard, so this is your time to just breathe and smile.
+Sana you're having a fun time with your family po ah? You've been working hard, so this is your time to just breathe and smile.
 
 I can already imagine you there, all pretty and happy, enjoying the day. Grabe, kahit malayo ka, parang andito ka pa rin kasi you never leave my thoughts 😎
 
-Take care palagi, Honey. Don’t forget to rest din ah? I’ll be here lang, waiting for your kwentos when you get back.
+Take care palagi, Honey. Don't forget to rest din ah? I'll be here lang, waiting for your kwentos when you get back.
 
 – Your Honn`
 },
@@ -119,28 +119,28 @@ Take care palagi, Honey. Don’t forget to rest din ah? I’ll be here lang, wai
   title: "Day Eight — Still Thinking of You",
   content: `Dear Honey ko,
 
-I’ve been thinking about the message I sent you last night. Hindi ko talaga maiwasan na mag-isip, kasi I care about you so much. Ayokong may ilangan or anything that could make you feel uncomfortable with me.
+I've been thinking about the message I sent you last night. Hindi ko talaga maiwasan na mag-isip, kasi I care about you so much. Ayokong may ilangan or anything that could make you feel uncomfortable with me.
 
-If ever may nasabi akong mali or something that made you feel off, I’m really sorry, Honey. Alam mo naman, di ko naman po sinasadya. I just want things between us to stay light, happy, and full of good memories.
+If ever may nasabi akong mali or something that made you feel off, I'm really sorry, Honey. Alam mo naman, di ko naman po sinasadya. I just want things between us to stay light, happy, and full of good memories.
 
-The whole night ako nag-iisip about you how you’ve been, what you’re doing, if you’re smiling right now. I just hope you’re okay, and that you know how much I you mean to me. You always make my days brighter, kahit minsan may mga maliit na tampuhan.
+The whole night ako nag-iisip about you how you've been, what you're doing, if you're smiling right now. I just hope you're okay, and that you know how much I you mean to me. You always make my days brighter, kahit minsan may mga maliit na tampuhan.
 
-Have a calm and happy day today, Honey. Smile ka palagi ha? You’re too precious to let little things steal your peace.  
+Have a calm and happy day today, Honey. Smile ka palagi ha? You're too precious to let little things steal your peace.  
 
 – Your Honn`
 },
 {
   date: "November 3, 2025",
-  title: "Day Nine — I’m Here, Honey 🌙",
+  title: "Day Nine — I'm Here, Honey 🌙",
   content: `Dear Honey ko,
 
-You told me you’re scared to sleep po. Sana andyan lang ako beside you right now po holding your hand, telling you everything’s okay. I’d cuddle you to sleep if I could, just to make sure you feel safe and calm.
+You told me you're scared to sleep po. Sana andyan lang ako beside you right now po holding your hand, telling you everything's okay. I'd cuddle you to sleep if I could, just to make sure you feel safe and calm.
 
-Alam mo, Honey, it’s okay to feel scared minsan. Pero please remember, you’re never alone. Kahit di ako physically beside you, my thoughts and my care are always with you. Close your eyes and imagine me right there.
+Alam mo, Honey, it's okay to feel scared minsan. Pero please remember, you're never alone. Kahit di ako physically beside you, my thoughts and my care are always with you. Close your eyes and imagine me right there.
 
-I hope your sleep po brings you peace, soft dreams, and a quiet heart. You deserve to rest peacefully after all the things you’ve been doing. Wag ka masyadong matakot ok honey? You’re safe, and I’m always just one message and call away po.
+I hope your sleep po brings you peace, soft dreams, and a quiet heart. You deserve to rest peacefully after all the things you've been doing. Wag ka masyadong matakot ok honey? You're safe, and I'm always just one message and call away po.
 
-Sleep well, my Honey. I’ll be praying that you wake up later with a smile. 💛  
+Sleep well, my Honey. I'll be praying that you wake up later with a smile. 💛  
 
 – Your Hon Honnn`
 },
@@ -149,11 +149,11 @@ Sleep well, my Honey. I’ll be praying that you wake up later with a smile. �
   title: "Day Ten — My Pretty Cheerleader 💛",
   content: `Dear Honey ko,
 
-Thank you for always being supportive, my pretty cheerleader. Kahit busy ako or pagod galing work, andyan ka pa rin understanding, patient, and always making me feel loved. Hindi mo alam kung gaano kalaking bagay ‘yun para sa’kin.
+Thank you for always being supportive, my pretty cheerleader. Kahit busy ako or pagod galing work, andyan ka pa rin understanding, patient, and always making me feel loved. Hindi mo alam kung gaano kalaking bagay 'yun para sa'kin.
 
-Every time I feel tired, just thinking of you gives me strength. Yung mga reminders mo po, simpleng kumusta, your pics and updates, or lambing mo they make my day lighter. Parang lahat ng pagod, worth it bigla kasi may ikaw na nag care and nag-uunderstand sa’kin.
+Every time I feel tired, just thinking of you gives me strength. Yung mga reminders mo po, simpleng kumusta, your pics and updates, or lambing mo they make my day lighter. Parang lahat ng pagod, worth it bigla kasi may ikaw na nag care and nag-uunderstand sa'kin.
 
-I’m really grateful for you, Honey. You’ve been my calm, my motivation, and my reason to smile even on hard days. Sana alam mo kung gaano kita na-aappreciate.
+I'm really grateful for you, Honey. You've been my calm, my motivation, and my reason to smile even on hard days. Sana alam mo kung gaano kita na-aappreciate.
 
 Thank you for being you my ever-supportive, pretty, and kind hearted Honey. 💛  
 
@@ -161,14 +161,14 @@ Thank you for being you my ever-supportive, pretty, and kind hearted Honey. 💛
 },
 {
   date: "November 5, 2025",
-  title: "Day Eleven — Even When We’re Busy 💛",
+  title: "Day Eleven — Even When We're Busy 💛",
   content: `Dear Honey ko,
 
 Thank you for being with me kagabi habang pareho tayong busy. I'm really happy po na kahit may ginagawa tayo, we still find time to be there for each other. Kahit simple kumusta or update lang, it means a lot to me.
 
-Thank you din po sa mga pics mo po hehe sobrang nakakagaan ng pakiramdam pag nakikita kita. Kahit pagod ako sa work, school or sa capstone, isang tingin lang sa’yo, okay na ulit lahat.
+Thank you din po sa mga pics mo po hehe sobrang nakakagaan ng pakiramdam pag nakikita kita. Kahit pagod ako sa work, school or sa capstone, isang tingin lang sa'yo, okay na ulit lahat.
 
-I really appreciate your effort, Honey. Thank you for always supporting me and understanding me kahit minsan sobrang occupied ko na. You always make things lighter, and I’m so grateful for that.
+I really appreciate your effort, Honey. Thank you for always supporting me and understanding me kahit minsan sobrang occupied ko na. You always make things lighter, and I'm so grateful for that.
 
 I miss you already, my pretty cheerleader. 💛  
 
@@ -181,9 +181,9 @@ I miss you already, my pretty cheerleader. 💛
 
 Parang ikaw lang talaga, baby and honey ko po, walang MOA, walang Marilao, walang kahit sino pa na pwedeng pumalit sayo hehe. Kahit saan pa ako mapadpad, ikaw at ikaw pa rin ang naiisip ko.
 
-You’ve been my comfort lately, my favorite person to talk to, and my reason to smile kahit pagod na sa work or sa buhay. Alam mo yung feeling na kahit ang gulo ng araw mo, once you hear from someone, parang okay na ulit lahat? Ganun yung effect mo sa’kin, honey ko.
+You've been my comfort lately, my favorite person to talk to, and my reason to smile kahit pagod na sa work or sa buhay. Alam mo yung feeling na kahit ang gulo ng araw mo, once you hear from someone, parang okay na ulit lahat? Ganun yung effect mo sa'kin, honey ko.
 
-Thank you for staying, for understanding, and for just being you. I don’t need big things or kahit anong bawi basta ikaw, sapat na.
+Thank you for staying, for understanding, and for just being you. I don't need big things or kahit anong bawi basta ikaw, sapat na.
 
 Ingat ka lagi ha, honey ko. I miss you always. 🥺💛  
 
@@ -211,11 +211,11 @@ Good luck for today, honeyyy ko. I believe in you. Kayang kaya mo yan! Take care
 
 Ewan ko, pero every time I think about you, napapangiti na lang me. Kahit simpleng chat or pic mo, parang matic good mood agad ako lods.
 
-You’ve been my calm lately, my safe place after long tiring day. Kahit busy ako or sabaw na sa pagod, pag naririnig ko lang boses mo or nakikita kita, parang lahat worth it ulit.
+You've been my calm lately, my safe place after long tiring day. Kahit busy ako or sabaw na sa pagod, pag naririnig ko lang boses mo or nakikita kita, parang lahat worth it ulit.
 
-Thank you for always being patient with me, for staying, and for reminding me that I’m doing okay even when I doubt myself. You don’t know how much that means to me.
+Thank you for always being patient with me, for staying, and for reminding me that I'm doing okay even when I doubt myself. You don't know how much that means to me.
 
-I hope today’s kind to you, Honey. Smile ha? You’re too pretty to frown. 😚🌼  
+I hope today's kind to you, Honey. Smile ha? You're too pretty to frown. 😚🌼  
 
 – Honnnn`
 },
@@ -225,13 +225,13 @@ I hope today’s kind to you, Honey. Smile ha? You’re too pretty to frown. �
   content: `Dear Honey koooo,
 
 I just want to say how grateful and lucky I am na dumating ka po sa buhay ko, my honeyyy.  
-You’ve made my days lighter, my nights calmer, and my heart a lot happier. I didn’t expect someone like you to come along, someone who could make even hard or even ordinary day feels more special, parang mas nag karoon ng purpose ang pag wake up ko each day.
+You've made my days lighter, my nights calmer, and my heart a lot happier. I didn't expect someone like you to come along, someone who could make even hard or even ordinary day feels more special, parang mas nag karoon ng purpose ang pag wake up ko each day.
 
-I’m really happy seeing you happy, honeyyy.  Kagabi, ang saya ko lang knowing you enjoyed the simple reward I gave. It wasn’t much, but the way your eyes lit up and how genuine your smile was sobra na ‘yon para sa’kin. That moment alone made everything worth it.
+I'm really happy seeing you happy, honeyyy.  Kagabi, ang saya ko lang knowing you enjoyed the simple reward I gave. It wasn't much, but the way your eyes lit up and how genuine your smile was sobra na 'yon para sa'kin. That moment alone made everything worth it.
 
-Thank you for being you for your warmth, your effort, and for making me feel that what I do matters.  You’re one of the biggest blessings I’ve ever had, honey ko, and I’ll never get tired of reminding you how thankful I am for you. 💛
+Thank you for being you for your warmth, your effort, and for making me feel that what I do matters.  You're one of the biggest blessings I've ever had, honey ko, and I'll never get tired of reminding you how thankful I am for you. 💛
 
-That’s why lalab kita always, and di yun magbabago. 💛  
+That's why lalab kita always, and di yun magbabago. 💛  
 
 – Your Hon Honnn`
 },
@@ -243,9 +243,9 @@ That’s why lalab kita always, and di yun magbabago. 💛
 Sobrang saya ko kagabi, lalo na nung sinabi mong nakikita mo me sa future mo po. 🥹 Ang sarap lang sa feeling marinig yun, Honeyyyy. Pero di ko pa rin makalimutan yung sa usapan natin about sa anak HAHAHA.  
 You want na 5, ako 2 lang kaya ayun, meet halfway nalang tayo WAHAHAHA, tatlo lang sagad! 😂
 
-Sorry rin sa naging usapan natin kagabi ha alam mo na yun hehehe, medyo di ko inexpect na aabot sa ganun. Pero okay lang, lilipas din ‘to, Honeyyy. Wag mo na masyadong isipin, okay? Let’s just laugh it off and move forward gaya ng dati. Sorry honeyy if somewhat naging uncomfy ka about dun.
+Sorry rin sa naging usapan natin kagabi ha alam mo na yun hehehe, medyo di ko inexpect na aabot sa ganun. Pero okay lang, lilipas din 'to, Honeyyy. Wag mo na masyadong isipin, okay? Let's just laugh it off and move forward gaya ng dati. Sorry honeyy if somewhat naging uncomfy ka about dun.
 
-Ang importante, okay tayo happy and patuloy na nagkakaintindihan. I’m just really happy knowing na kahit ganun ka-busy or pagod, andiyan ka pa rin.  
+Ang importante, okay tayo happy and patuloy na nagkakaintindihan. I'm just really happy knowing na kahit ganun ka-busy or pagod, andiyan ka pa rin.  
 Thank you for being you, Honey. 💛  
 
 – Your Hon Honnn`
@@ -256,9 +256,9 @@ Thank you for being you, Honey. 💛
   content: `Dear Honey ko 💛
 
 Today, I just want to say how truly grateful I am for you.  
-Alam mo, minsan naiisip ko talaga kung gaano ako kalucky kasi sa dami ng tao sa mundo, ikaw pa yung ibinigay ni Lord sa’kin. You’re more than what I ever prayed for, Honey. You came into my life at the right time, when I didn’t even know I needed someone like you.
+Alam mo, minsan naiisip ko talaga kung gaano ako kalucky kasi sa dami ng tao sa mundo, ikaw pa yung ibinigay ni Lord sa'kin. You're more than what I ever prayed for, Honey. You came into my life at the right time, when I didn't even know I needed someone like you.
 
-You’ve been nothing but kind, patient, and understanding and every single day, I thank God for sending me someone as genuine and loving as you.  
+You've been nothing but kind, patient, and understanding and every single day, I thank God for sending me someone as genuine and loving as you.  
 You make my world softer, lighter, and so much better just by being in it.
 
 No matter how busy or pagod ako, you always find ways to make me smile and feel at peace.  
@@ -272,10 +272,10 @@ Thank you for being my answered prayer, my blessing, my Honey. 💛
   content: `Hi honey 💛
 
 Woke up today just feeling thankful for you.  
-Alam mo ‘yung feeling na kahit pagod or sabog minsan, okay lang kasi andiyan ka? Ganun lagi. I’m really grateful na dumating ka sa life ko po.
+Alam mo 'yung feeling na kahit pagod or sabog minsan, okay lang kasi andiyan ka? Ganun lagi. I'm really grateful na dumating ka sa life ko po.
 
 Sobrang bait ni Lord sakin for letting me meet someone like you.  
-You’re thoughtful, understanding, and you have such a good heart. Kahit simple lang mga araw natin minsan, masaya pa rin kasi kasama ka.
+You're thoughtful, understanding, and you have such a good heart. Kahit simple lang mga araw natin minsan, masaya pa rin kasi kasama ka.
 
 Ingat ka lagi ha, and enjoy your day.  
 
@@ -313,6 +313,8 @@ const rightText = document.getElementById('rightText');
 const pageNum = document.getElementById('pageNum');
 const prevBtn = document.getElementById('prevBtn');
 const nextBtn = document.getElementById('nextBtn');
+const firstBtn = document.getElementById('firstBtn');
+const lastBtn = document.getElementById('lastBtn');
 
 // Display current page
 function displayPage() {
@@ -345,8 +347,11 @@ function displayPage() {
     const totalPages = Math.ceil(letters.length / 2);
     pageNum.textContent = `Page ${currentPage + 1} of ${totalPages}`;
     
+    // Update button states
     prevBtn.disabled = currentPage === 0;
     nextBtn.disabled = currentPage >= totalPages - 1;
+    firstBtn.disabled = currentPage === 0;
+    lastBtn.disabled = currentPage >= totalPages - 1;
 }
 
 // Navigate to next page
@@ -366,16 +371,32 @@ function previousPage() {
     }
 }
 
+// Navigate to first page
+function firstPage() {
+    currentPage = 0;
+    displayPage();
+}
+
+// Navigate to last page
+function lastPage() {
+    const totalPages = Math.ceil(letters.length / 2);
+    currentPage = totalPages - 1;
+    displayPage();
+}
+
 // Event listeners
 prevBtn.addEventListener('click', previousPage);
 nextBtn.addEventListener('click', nextPage);
+firstBtn.addEventListener('click', firstPage);
+lastBtn.addEventListener('click', lastPage);
 
 // Keyboard navigation
 document.addEventListener('keydown', (e) => {
     if (e.key === 'ArrowRight') nextPage();
     if (e.key === 'ArrowLeft') previousPage();
+    if (e.key === 'Home') firstPage();
+    if (e.key === 'End') lastPage();
 });
 
 // Initialize on page load
-
 displayPage();
