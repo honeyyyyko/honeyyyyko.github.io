@@ -346,9 +346,10 @@ body::after {
     left: 50%;
     transform: translateX(-50%);
     display: flex;
-    gap: 30px;
+    gap: 15px;
     align-items: center;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .nav-btn {
@@ -367,6 +368,12 @@ body::after {
     display: flex;
     align-items: center;
     gap: 8px;
+}
+
+.nav-btn-edge {
+    padding: 14px 28px;
+    font-size: 14px;
+    opacity: 0.9;
 }
 
 .btn-flower {
@@ -391,6 +398,10 @@ body::after {
     transform: translateY(-3px);
     box-shadow: 0 12px 30px rgba(230, 57, 70, 0.5);
     border-color: rgba(255, 255, 255, 0.3);
+}
+
+.nav-btn-edge:hover:not(:disabled) {
+    opacity: 1;
 }
 
 .nav-btn:active:not(:disabled) {
@@ -450,6 +461,15 @@ body::after {
     
     .page {
         padding: 60px 50px;
+    }
+
+    .navigation {
+        gap: 12px;
+    }
+
+    .nav-btn-edge {
+        padding: 14px 24px;
+        font-size: 13px;
     }
 }
 
@@ -593,11 +613,11 @@ body::after {
         bottom: 20px;
         left: 50%;
         transform: translateX(-50%);
-        gap: 15px;
-        flex-wrap: nowrap;
+        gap: 8px;
+        flex-wrap: wrap;
         width: calc(100% - 40px);
         max-width: 600px;
-        padding: 15px 20px;
+        padding: 15px 15px;
         z-index: 100;
         background: rgba(15, 12, 41, 0.95);
         backdrop-filter: blur(20px);
@@ -607,26 +627,33 @@ body::after {
     }
 
     .nav-btn {
-        padding: 14px 24px;
-        font-size: 15px;
-        gap: 8px;
-        flex: 1;
+        padding: 12px 20px;
+        font-size: 14px;
+        gap: 6px;
+        flex: 1 1 calc(50% - 8px);
         justify-content: center;
         white-space: nowrap;
         min-width: 0;
     }
 
+    .nav-btn-edge {
+        padding: 12px 18px;
+        font-size: 13px;
+        flex: 1 1 calc(50% - 8px);
+    }
+
     .btn-flower {
-        font-size: 18px;
+        font-size: 16px;
     }
 
     .page-indicator {
         padding: 10px 20px;
-        order: 0;
-        width: auto;
-        flex: 0 0 auto;
+        order: -1;
+        width: 100%;
+        flex: 1 1 100%;
         text-align: center;
         background: rgba(255, 255, 255, 0.2);
+        margin-bottom: 8px;
     }
 
     .page-number {
@@ -678,13 +705,18 @@ body::after {
     }
 
     .nav-btn {
-        padding: 12px 18px;
-        font-size: 14px;
-        gap: 6px;
+        padding: 11px 16px;
+        font-size: 13px;
+        gap: 5px;
+    }
+
+    .nav-btn-edge {
+        padding: 11px 14px;
+        font-size: 12px;
     }
 
     .btn-flower {
-        font-size: 16px;
+        font-size: 15px;
     }
 
     .page-indicator {
@@ -707,8 +739,8 @@ body::after {
     .navigation {
         bottom: 15px;
         width: calc(100% - 30px);
-        gap: 12px;
-        padding: 12px 15px;
+        gap: 6px;
+        padding: 12px 12px;
     }
 
     .floating-flowers .flower {
@@ -723,9 +755,14 @@ body::after {
     }
 
     .nav-btn {
-        padding: 10px 14px;
-        font-size: 13px;
+        padding: 10px 12px;
+        font-size: 12px;
         gap: 4px;
+    }
+
+    .nav-btn-edge {
+        padding: 10px 10px;
+        font-size: 11px;
     }
 
     .letter-title {
@@ -742,8 +779,8 @@ body::after {
     }
 
     .navigation {
-        padding: 10px 12px;
-        gap: 10px;
+        padding: 10px 10px;
+        gap: 5px;
         width: calc(100% - 24px);
     }
 
