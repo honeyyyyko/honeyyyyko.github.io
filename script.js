@@ -280,6 +280,21 @@ You’re thoughtful, understanding, and you have such a good heart. Kahit simple
 Ingat ka lagi ha, and enjoy your day.  
 
 – Honn`
+},
+{
+  date: "November 13, 2025",
+  title: "Day Nineteen — Just You",
+  content: `Hey honey 💛
+
+Today, I just found myself thinking how different life feels with you around. Hindi lang basta masaya iba yung peace na binibigay mo. 
+
+Thank you for staying the same for being kind, patient, and real.  
+Ang sarap lang isipin na I get to have someone like you, someone na hindi kailangan ng effort para mapasaya ako. Just you being you po is sapat na.
+
+I hope your day is light and calm, honey.  
+And always remember no matter how busy things get, andiyan lang ako palagi. 💛  
+
+– Hon Honnn`
 }
 
 
