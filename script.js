@@ -295,6 +295,20 @@ I hope your day is light and calm, honey.
 And always remember no matter how busy things get, andiyan lang ako palagi. 💛  
 
 – Hon Honnn`
+},
+{
+  date: "November 14, 2025",
+  title: "Day Twenty — Thinking of You Today",
+  content: `Hi honey 💛
+
+Today felt a little different… in a good way. Ang gaan lang ng araw kasi naaalala kita every now and then. Not in a heavy or clingy way — more like a quiet reminder na andiyan ka, and that alone makes everything feel better.
+
+Thank you for always being so genuine with me.  
+Yung way mo magkwento, mag-update, mag-effort kahit pagod ka hindi ko yun kinakalimutan. I appreciate all the small things you do, honey. Sobra.
+
+Sana maganda araw mo today. Miss you a bit more today, honey kooo. 💛
+
+– Hon Honnnn`
 }
 
 
