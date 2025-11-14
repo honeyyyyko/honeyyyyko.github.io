@@ -309,6 +309,22 @@ Yung way mo magkwento, mag-update, mag-effort kahit pagod ka hindi ko yun kinaka
 Sana maganda araw mo today. Miss you a bit more today, honey kooo. 💛
 
 – Hon Honnnn`
+},
+{
+  date: "November 15, 2025",
+  title: "Day Twenty-One — Sorry & Thank You",
+  content: `Hi honey 💛
+
+Day twenty-one na, and I just want to say this again thank you for staying with me, for choosing me, and for being the soft, calm part of my days.
+
+I’m really sorry if may mga times na napipikon kita, naaasar kita, or napu-push ko yung limit mo sa kakulitan ko. Hindi ko naman intention na inisin ka… minsan talaga sabaw lang ako or pagod. Pero kahit ganun, you still understand me, and that means a lot more than you think.
+
+Thank you for being patient with me. Thank you for your effort, for your updates, and for your care. You make my days lighter just by being around, honey.  
+And kahit anong kulit ko, tandaan mo: ikaw pa rin yung gusto ko kausap, kasama, at iniingatan.
+
+Have a good day, honey kooo. Nandito lang ako palagi. 💛
+
+– Honn`
 }
 
 
