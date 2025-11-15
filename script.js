@@ -325,6 +325,26 @@ And kahit anong kulit ko, tandaan mo: ikaw pa rin yung gusto ko kausap, kasama, 
 Have a good day, honey kooo. Nandito lang ako palagi. 💛
 
 – Honn`
+},
+{
+  date: "November 16, 2025",
+  title: "Day Twenty-Two — Still You, Always You",
+  content: `Hi honey 💛
+
+Good morning. Another day, and just like always, you’re the first person who comes to mind.
+
+I just want to say how thankful I am for you always honey kooo.  
+You make things feel lighter, moments feel softer, and even the small parts of my day feel a little brighter. Even when we’re both busy or tired, you still manage to make me feel cared for and I hope na feel the same from me.
+
+Thank you for being constant. Thank you for choosing me in your own quiet ways, every single day.
+
+Life gets exhausting sometimes, and we both get overwhelmed but we still show up for each other. And that’s something I really treasure.
+
+I hope today is kind to you. And I hope you smile a lot it looks really good on you okay po?
+
+I’m here, always. 💛
+
+– Honn Honnnn`
 }
 
 
