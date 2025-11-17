@@ -357,7 +357,7 @@ Thank you for being someone I genuinely look forward to. Not because of anything
 
 Today, I realized na ang gaan mo talagang kausap. Hindi mo alam, pero you make things easier for me in ways I didn’t expect.
 
-And I like that… I like *us* in this quiet, steady way.
+And I like that… I like us in this quiet, steady way.
 Sana okay day mo, honey ko. Kahit simple lang or walang ganap, I hope you still found something that made you smile.  
 
 – Honn`
