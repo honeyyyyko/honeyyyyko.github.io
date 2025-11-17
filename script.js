@@ -361,6 +361,25 @@ And I like that… I like us in this quiet, steady way.
 Sana okay day mo, honey ko. Kahit simple lang or walang ganap, I hope you still found something that made you smile.  
 
 – Honn`
+},
+{
+  date: "November 18, 2025",
+  title: "Day Twenty-Four — Your Special Day",
+  content: `Happy birthday, honeyyyy 💛
+
+Today is your day and I just want to thank God for bringing someone like you into the world.  
+Ang daming magandang nangyari sa buhay ko, pero meeting you… that’s easily one of the best.
+
+I hope today makes you feel loved, appreciated, and celebrated the way you deserve.  
+You’re kind, funny, smart, kulit, and sobrang beautiful in every way. And I’m just really grateful that I get to be part of your life, even in the small everyday moments.
+
+Sana this year gives you more reasons to smile, more peace, more blessings, and more memories worth keeping.  
+And kahit hindi perfect ang mga araw, I’ll always be here cheering for you, supporting you, and doing my best to make you feel valued.
+
+Enjoy your day, birthday girl.  
+You deserve all the good things coming your way.
+
+– Honn`
 }
 
 
