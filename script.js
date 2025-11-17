@@ -345,6 +345,22 @@ I hope today is kind to you. And I hope you smile a lot it looks really good on 
 I’m here, always. 💛
 
 – Honn Honnnn`
+},
+{
+  date: "November 17, 2025",
+  title: "Day Twenty-Three — Just Something I Wanted to Tell You",
+  content: `Dear honey kooo,
+
+I don’t really have a big speech today… pero I wanted to write something still.  
+
+Thank you for being someone I genuinely look forward to. Not because of anything grand, pero dahil sa kung paano ka kausap, kung paano ka mag-react, even the little things you say without thinking too much.
+
+Today, I realized na ang gaan mo talagang kausap. Hindi mo alam, pero you make things easier for me in ways I didn’t expect.
+
+And I like that… I like *us* in this quiet, steady way.
+Sana okay day mo, honey ko. Kahit simple lang or walang ganap, I hope you still found something that made you smile.  
+
+– Honn`
 }
 
 
