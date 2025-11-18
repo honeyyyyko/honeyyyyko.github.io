@@ -380,6 +380,22 @@ Enjoy your day, birthday girl.
 You deserve all the good things coming your way.
 
 – Honn`
+},
+{
+  date: "November 19, 2025",
+  title: "Day Twenty-Five — The Day After Her Birthday",
+  content: `Hi honey 💛
+
+I hope you woke up today still carrying a bit of the happiness from your birthday. Kahit tapos na yung special day mo, I hope the feeling stays yung light, calm, and full of good energy.
+
+I’m just really glad I got to be even a small part of your day. Seeing you happy, even in simple ways, sobra na yun para sa’kin.
+
+Today feels quieter, pero in a nice way. And I just want you to know: I’m proud of you, I’m grateful for you, and I’m happy I get to be someone you share your days with.
+
+Take care, honey.  
+I’m here, always.
+
+– Honn`
 }
 
 
