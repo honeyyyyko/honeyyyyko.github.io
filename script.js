@@ -396,6 +396,25 @@ Take care, honey.
 I’m here, always.
 
 – Honnnnn`
+},
+{
+  date: "November 20, 2025",
+  title: "Day Twenty-Six — Just Something Honest Today",
+  content: `Hi honey 💛
+
+Today felt a bit different for me in a good way. I don’t know, maybe it’s because I’ve been thinking about you a lot. I just wanted to write to you again.
+
+Thank you for being consistent, for being warm, and for being someone I can talk to even sa simplest things. Hindi mo alam, pero you make my days feel less heavy. Kahit busy or pagod ako, once I hear from you, parang nagso-soft reset yung utak ko.
+
+I just hope your day went well today. 
+
+If may mabigat sa’yo today, you can always tell me. If wala naman, then good mas okay yun.  
+Basta I’m here lang, listening, and choosing you everyday in my small ways.
+
+Ingat palagi, honey.  
+You matter to me more than you think.
+
+– Honn`
 }
 
 
