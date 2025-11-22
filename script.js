@@ -415,6 +415,24 @@ Ingat palagi, honey.
 You matter to me more than you think.
 
 – Honn`
+},
+{
+  date: "November 21, 2025",
+  title: "Day Twenty-Seven — Excited for Us",
+  content: `Hi honey 💛
+
+Today feels different… maybe because I'm excited for our date later.  
+
+I’ve been looking forward to spending time with you the whole week.  
+Kahit simple lang yung gagawin natin, I know I’ll enjoy it because it’s with you. Ang sarap lang sa feeling na I get to be around you, listen to your stories, and just be in your presence.
+
+I hope you’re excited too.  
+Basta ako, I’m happy knowing we’ll have another memory today.
+
+Ingat ka muna before we meet, honey.  
+Can’t wait to see your smile later.
+
+– Honn`
 }
 
 
