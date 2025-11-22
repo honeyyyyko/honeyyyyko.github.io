@@ -433,6 +433,25 @@ Ingat ka muna before we meet, honey.
 Can’t wait to see your smile later.
 
 – Honn`
+},
+{
+  date: "November 22, 2025",
+  title: "Day Twenty-Eight — About Yesterday",
+  content: `Dear honey ko 💛
+
+I just want to say na sobrang na-enjoy ko yung date natin kahapon.  
+Hindi ko alam kung napansin mo, pero ang saya ko the whole time. There’s something about being with you yung presence mo, yung tawa mo, yung pagiging sweet mo na nagpapagaan ng araw ko.
+
+What made me happiest was seeing you happy.  
+Yung genuine na ngiti mo, yung eyes mo na ang bright habang nagku-kwento, that alone made the whole day worth it. If you’re happy, I’m happy simple as that.
+
+And honestly, I love it when you’re sweet. Hindi ako magsasawa dun.  
+Yesterday reminded me how lucky I am to have moments like that with you.
+
+Thank you for that day, honey.  
+I’ll remember it for a long time.
+
+– Honn`
 }
 
 
