@@ -452,6 +452,24 @@ Thank you for that day, honey.
 I’ll remember it for a long time.
 
 – Honn`
+},
+{
+  date: "November 23, 2025",
+  title: "Day Twenty-Nine — A Slow but Nice Sunday",
+  content: `Dear honey 💛
+
+Today feels like one of those slow and busy days, nothing too overwhelming. And somehow, it made me think of you a little more than usual.
+
+I hope you woke up comfortable, rested, and in a good mood. Me, I’m just grateful. Grateful that I get to talk to you every day.  
+Grateful that you let me be part of your routines, your stories, your mood swings, your kulit moments lahat.
+
+I don’t need anything big today.  
+Just knowing you’re okay and that we’re good… that’s already more than enough for me.
+
+Ingat ka, honey.  
+Message me if you need anything or if may gusto ka lang ikuwento, I’m always here.
+
+– Honn`
 }
 
 
