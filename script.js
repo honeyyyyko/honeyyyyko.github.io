@@ -470,6 +470,28 @@ Ingat ka, honey.
 Message me if you need anything or if may gusto ka lang ikuwento, I’m always here.
 
 – Honn`
+},
+{
+  date: "November 24, 2025",
+  title: "Day Thirty — Quiet Appreciation",
+  content: `Hi Honey kooo,
+
+Today felt a bit quiet… but in a nice way. Somehow you were still part of that calm.
+
+Di ko alam how you do it, you’re not even beside me pero you still make my day feel softer.
+
+Kanina, I caught myself smiling for no reason, tapos narealize ko, it’s because of you. Your voice, your laugh, the way you tell stories like you’re letting me in little by little.
+
+I like that. I like you like that.
+
+Maybe today was meant for that quiet appreciation not excitement, not surprises… just the thought that you exist in my everyday.
+And honestly, I’m not looking for anything more.
+
+I hope this day will be gentle sa’yo. If hindi, sana this message makes it a bit lighter.
+
+Ingat always honey kooo.
+
+– Honn`
 }
 
 
