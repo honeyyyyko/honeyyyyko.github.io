@@ -492,6 +492,25 @@ I hope this day will be gentle sa’yo. If hindi, sana this message makes it a b
 Ingat always honey kooo.
 
 – Honn`
+},
+{
+  date: "November 25, 2025",
+  title: "Day Thirty-One — Sorry, Honeyyy",
+  content: `Hi honeyyy kooo,
+
+I just want to say sorry if there are times na makulit ako… yung tipong sobra na, or minsan below the belt na yung birong nabibitawan ko. I don’t really mean to cross the line, and I hate the thought na baka naiirita kita dahil sa'kin.
+
+I’m really trying to be better to think before I speak, to read your mood more, to choose my words carefully.  
+You matter too much to me, honey, and the last thing I want is to make you feel off or annoyed.
+
+Thank you kasi kahit ganun, you still stay patient with me.  
+Thank you kasi you always try to understand me.  
+And thank you kasi you never make me feel like I’m too much, even when I know I can be.
+
+I appreciate you, honeyyy.  
+More than you think.
+
+– Honn`
 }
 
 
