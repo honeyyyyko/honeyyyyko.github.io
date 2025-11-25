@@ -511,6 +511,21 @@ I appreciate you, honeyyy.
 More than you think.
 
 – Honn`
+},
+{
+  date: "November 26, 2025",
+  title: "Day Thirty-Two — Good Luck, Honeyyyy",
+  content: `Dear honey kooo,
+
+Good luck sa defense mo today. Alam kong kayang kaya mo 'to, you’re prepared, you’re smart, and you always handle things with so much grace and confidence.
+
+I’m really proud of how far you’ve come. Your hard work, discipline, and dedication show in everything you do. Today is just another moment where you’ll shine naturally, like you always do.
+
+I’ll be cheering for you quietly from here, smiling kasi alam kong you’ll do great. Enjoy the moment, honeyyy. You deserve every good thing coming your way.
+
+Go win your day, my pretty girl. 🤍✨
+
+– Honn`
 }
 
 
