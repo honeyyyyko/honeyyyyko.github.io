@@ -526,6 +526,21 @@ I’ll be cheering for you quietly from here, smiling kasi alam kong you’ll do
 Go win your day, my pretty girl. 🤍✨
 
 – Honn`
+},
+{
+  date: "November 27, 2025",
+  title: "Day Thirty-Three — So Proud of You",
+  content: `Hi honeyy kooo,
+
+Congrats sa successful defense poooo! Alam ko na kaya mo ’yon, you really pulled it off so smoothly. Nakakatuwa kasi nag bunga na lahat ng puyat and pagod mo sa research.
+
+I’m really, proud of you honeyyy. You worked hard for this, you stayed consistent, and now you’re reaping the results. Deserve mo lahat ng good things na dumarating sa’yo.
+
+Thank you for sharing this milestone with me. Ang sarap sa feeling na nandito lang ako, watching you grow and win. You inspire me more than you know.
+
+Enjoy your day honeyyy. You earned it. 🤍✨
+
+– Honn`
 }
 
 
