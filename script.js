@@ -541,6 +541,21 @@ Thank you for sharing this milestone with me. Ang sarap sa feeling na nandito la
 Enjoy your day honeyyy. You earned it. 🤍✨
 
 – Honn`
+},
+{
+  date: "November 28, 2025",
+  title: "Day Thirty-Four — Just Thinking of You",
+  content: `Hi honeyyy koooo,
+
+Just wanted to send you a little something for today. Woke up thinking about you and na-realize ko ulit how lucky I am na nandyan ka sa life ko. I'm grateful always sa mga updates or messages mo, I feel na I am someone na special sayo.
+
+Sana okay ang day mo ngayon, honey. Kung maging stressful man andito lang ako palagi, cheering for you quietly kahit busy tayo pareho.
+
+Thank you sa consistency mo, sa effort mo, at sa pagiging sweet, thoughtful, at totoo sa akin.
+
+Have a good day, honeyyy. Miss you.
+
+– Honn`
 }
 
 
