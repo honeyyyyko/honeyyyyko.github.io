@@ -556,6 +556,24 @@ Thank you sa consistency mo, sa effort mo, at sa pagiging sweet, thoughtful, at 
 Have a good day, honeyyy. Miss you.
 
 – Honn`
+},
+{
+  date: "November 29, 2025",
+  title: "Day Thirty-Five — Just You, Just Today",
+  content: `Hi honeyy kooo,
+
+Wala naman akong big message today… just wanted to say this po hehe.  
+
+I like knowing you’re somewhere out there doing your thing busy, tired, minsan sabaw pero you're still there honeyy.  
+And for some reason, that already makes my day feel a bit more okay.
+
+No big drama, no long explanation.  
+I just appreciate you today, in a quiet way. Words can't describe how I feel always.
+
+Ingat ka palagi, lalabs.  
+Hindi mo kailangan gawin anything special, being you is already enough for me.
+
+– Honn`
 }
 
 
