@@ -574,6 +574,31 @@ Ingat ka palagi, lalabs.
 Hindi mo kailangan gawin anything special, being you is already enough for me.
 
 – Honn`
+},
+
+{
+  date: "November 30, 2025",
+  title: "Day Thirty-Six — Just Wanting Us Okay",
+  content: `Hi honey,
+
+About the message I sent earlier… I just really wanted to clear my chest a bit.  
+Ayoko lang kasi ng may bitbit na tampo or anything between us, lalo na hindi ko alam kung may nagawa ba talaga akong mali.
+
+Pero thank you. Kahit hindi mo pa sinasagot yung message ko, somehow napapakalma pa rin ako knowing na nandyan ka. I appreciate you more than you know.
+
+And gusto ko lang ulitin if ever may times na nakukulitan ka, or feeling mo napu-push ko boundaries mo, I’m really sorry. Hindi ko naman intention na ma-offend ka or mapagod sa’kin.
+
+Sobra rin akong thankful kasi kahit ganon, you still stay soft with me.  
+You still talk to me, update me, make me feel like I matter.  
+Hindi mo alam how much that calms me.
+
+Today, I just hope we’re okay na we’re good, na wala tayong sama ng loob.  
+I don’t want anything heavy between us. Gusto ko lang yung usual natin… yung kulitan, lambing, and being there for each other.
+
+Thank you honey, for understanding me even on days I’m a little messy.  
+I promise I’ll make up for anything I fall short on. Always.
+
+– Honn`
 }
 
 
@@ -679,3 +704,4 @@ document.addEventListener('keydown', (e) => {
 
 // Initialize on page load
 displayPage();
+
