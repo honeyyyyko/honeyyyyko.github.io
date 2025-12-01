@@ -599,6 +599,26 @@ Thank you honey, for understanding me even on days I’m a little messy.
 I promise I’ll make up for anything I fall short on. Always.
 
 – Honn`
+},
+{
+  date: "December 1, 2025",
+  title: "Day Thirty-Seven — Starting December with my Honeyyy",
+  content: `Dear honey kooo,
+
+Grabe no… ang bilis talaga ng panahon.  
+Parang kahapon lang yung first chat natin medj awkward pa WAHAHAHA.  
+Tapos ngayon? May “honey” na ako. Medj senti ako today hehe.
+
+Nakakatuwa lang how things changed, slowly pero ang gaan ng pace natin.  
+Hindi ko naman inexpect na aabot tayo sa ganito, but I’m really glad na nandito tayo ngayon.
+
+Kaya siguro kanina pag gising ko, ikaw agad naalala ko.  
+Sanay na kasi ako na ikaw yung kausap ko, ikaw yung kinukulit ko, ikaw yung nagpapagaan ng araw ko.
+
+Sana maging okay yung December mo, honey.  
+And sana… kahit super bilis ng panahon, we will not change po.
+
+– Honn`
 }
 
 
