@@ -1,4 +1,4 @@
-// ✨ ADD YOUR LETTERS HERE ✨
+// ✨ ADD YOUR LETTERS HERE 
 // Each letter should have: date, title, and content
 const letters = [
     {
