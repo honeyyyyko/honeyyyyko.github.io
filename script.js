@@ -619,6 +619,22 @@ Sana maging okay yung December mo, honey.
 And sana… kahit super bilis ng panahon, we will not change po.
 
 – Honn`
+},
+{
+  date: "December 2, 2025",
+  title: "Day Thirty-Eight — Still Surprising",
+  content: `Dear honey kooo,
+
+Time goes so fastttt, and honestly… I'm very happy po. I didn’t expect na something this simple chatting, sharing small updates, kulitan minsan would mean this much to me.
+
+What surprises me is how normal it feels to have you around. Feeling na may someone ka na hindi kailangan i-force, pero worth it. That’s you for me.
+
+Parang ang bilis ng araw. I like that. I like how we’re growing at our own unique pace.
+
+Thank you for being part of my everyday.  
+3 months have passed, pero it already feels like something real.
+
+– Your Honn honnn`
 }
 
 
