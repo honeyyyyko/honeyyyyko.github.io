@@ -638,7 +638,7 @@ Thank you for being part of my everyday.
 },
 {
   date: "December 3, 2025",
-  title: "For You, Honey",
+  title: "Day Thirty-Nine — For You, Honey",
   content: `Hello honey,
 
 Sorry honey kagabi, alam ko na po yun hehe… medyo naging inappropriate na yung mga sinasabi ko po. Di ko naman intention na mapailang ka or anything. Nadadala lang ako sa lambing mo, pero I'll be more careful next time.
