@@ -641,14 +641,14 @@ Thank you for being part of my everyday.
   title: "For You, Honey",
   content: `Hello honey,
 
-Sorry honey kagabi, alam mo na po yun hehe… medyo naging inappropriate na yung mga sinasabi ko po. Di ko naman intention na mapailang ka or anything. Nadadala lang ako sa lambing mo, pero I’ll be more careful next time.
+Sorry honey kagabi, alam ko na po yun hehe… medyo naging inappropriate na yung mga sinasabi ko po. Di ko naman intention na mapailang ka or anything. Nadadala lang ako sa lambing mo, pero I'll be more careful next time.
 
 Gusto ko lang din sabihin na I really appreciate you. Kahit may mga moments na makulit ako, you still make everything feel calm and okay. Swerte ko na ikaw yung kausap ko araw-araw.
 
 Ingat today, honey.  
-Nandito lang ako palagi for you. 💛`
+Nandito lang ako palagi for you. 💛
 
-– Your Honn honnn
+– Your Honn honnn`  
 }
 
 
