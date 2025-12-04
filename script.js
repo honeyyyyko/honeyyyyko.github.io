@@ -662,6 +662,21 @@ Thank you for being you. Kahit simple lang mga moments natin, sapat na sakin yun
 Take care honey. Talk to you later. 💛
 
 – Your Honn honnn`  
+},
+{
+  date: "December 5, 2025",
+  title: "Day Forty — Your Well-Deserved Rest",
+  content: `Dear honey koo,
+
+Finally, vacant day mo today. Makakapag rest ka naman grabe yung week mo, tapos defense pa kahapon. Deserve mo talaga mag-relax ngayon pooo.
+
+Sana ma-enjoy mo yung day mo po… kahit matulog ka lang, manood, or wala ka lang gagawin. Okay lang, as long as nakakapagpahinga ka. Proud na proud ako sa’yo, honey. Hindi ko man palagi nasasabi, pero sobra talaga.
+
+Thank you din sa updates mo lagi, kahit super busy ka. Na-appreciate ko yun, sobra.
+
+Enjoy your rest today, honey. You earned it. 💛
+
+– Your Honn honnn`  
 }
 
 
