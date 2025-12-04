@@ -649,6 +649,19 @@ Ingat today, honey.
 Nandito lang ako palagi for you. 💛
 
 – Your Honn honnn`  
+
+{
+  date: "December 4, 2025",
+  title: "Day Thirty-Nine — Just Thinking of You",
+  content: `Hi honey,
+
+Good morning po. I just wanted to write something today, na-miss lang po kita hehe. 
+
+Thank you for being you. Kahit simple lang mga moments natin, sapat na sakin yun. I hope your day goes smoothly today and sana di ka masyadong mapagod. If may gusto kang ikwento later, I'm always here.
+
+Take care honey. Talk to you later. 💛
+
+– Your Honn honnn`  
 }
 
 
