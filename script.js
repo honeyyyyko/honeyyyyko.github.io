@@ -649,7 +649,7 @@ Ingat today, honey.
 Nandito lang ako palagi for you. 💛
 
 – Your Honn honnn`  
-
+},
 {
   date: "December 4, 2025",
   title: "Day Thirty-Nine — Just Thinking of You",
