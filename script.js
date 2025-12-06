@@ -677,8 +677,20 @@ Thank you din sa updates mo lagi, kahit super busy ka. Na-appreciate ko yun, sob
 Enjoy your rest today, honey. You earned it. 💛
 
 – Your Honn honnn`  
-}
+},
+{
+  date: "December 6, 2025",
+  title: "Day Forty-One — Enjoy Your Night, Honey",
+  content: `Dear honey,
 
+Alam ko na you are having fun diyan sa taas nag kakaraoke hehe. Ang cute mo siguro honey ko diyan hehe. I am happy nag-eenjoy ka, lalo na rest day mo rin.
+
+Ako medyo busy lang ngayon, kaya later nalang po tayo mag-usap ha? Pero kahit ganun, naaalala pa rin kita. Parang naririnig ko na rin boses mo kahit malayo pooo.
+
+Sige honey, enjoy mo lang muna diyan. You deserve a fun, light night. Later tayo mag-usap pag free na ako. 💛
+
+– Your Honn honnn`  
+}
 
 ];    // `Add more letters here! Just copy the format above
 
@@ -782,4 +794,5 @@ document.addEventListener('keydown', (e) => {
 
 // Initialize on page load
 displayPage();
+
 
