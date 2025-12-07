@@ -705,6 +705,22 @@ Sana maging light and peaceful yung day mo ngayon. Eat ka ha, and please rest pr
 Later ulit, honey. Miss you ko na ang honey ko 🥺. 💛
 
 – Your Honn honnn`  
+},
+{
+  date: "December 8, 2025",
+  title: "Day Forty-Three — I'm Here, Honey",
+  content: `Hi honey,
+
+I know na wala ka sa mood, and that’s okay. Hindi naman araw-araw kailangan masaya. Minsan kailangan mo rin lang ng space, pahinga, or just a quiet day and I understand that.
+
+Gusto ko lang sabihin na I’m here lang. Hindi kita pipilitin magkwento kung ayaw mo muna, hindi rin kita ipe-pressure to be okay instantly. Take your time, honey. I’d never want to add to what you’re feeling.
+
+I just hope na kahit medyo off yung mood mo today, you still feel na nandito ako. Someone who won’t get tired just because you’re not your usual self. If may kailangan ka, or gusto mo lang ng kausap later, message mo lang ako.
+
+I hope your day gets a little lighter, even just a bit.  
+I’m here lang, honey. Always. 💛
+
+– Your Honn honnn`  
 }
 
 ];    // `Add more letters here! Just copy the format above
