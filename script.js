@@ -690,6 +690,21 @@ Ako medyo busy lang ngayon, kaya later nalang po tayo mag-usap ha? Pero kahit ga
 Sige honey, enjoy mo lang muna diyan. You deserve a fun, light night. Later tayo mag-usap pag free na ako. 💛
 
 – Your Honn honnn`  
+},
+{
+  date: "December 7, 2025",
+  title: "Day Forty-Two — A Soft Sunday",
+  content: `Dear honey kooo,
+
+Happy Sunday. Woke up today thinking about you po, sana good mood si honey ko today. I hope you’re resting well after all the restless nights. 
+
+Your updates means a lot to me honey, simple kumusta lang sa akin parang sobrang laki na para sa akin hehe.
+
+Sana maging light and peaceful yung day mo ngayon. Eat ka ha, and please rest properly. You know I always wish you’re okay kahit di ko sinasabi every minute.
+
+Later ulit, honey. Miss you ko na ang honey ko 🥺. 💛
+
+– Your Honn honnn`  
 }
 
 ];    // `Add more letters here! Just copy the format above
