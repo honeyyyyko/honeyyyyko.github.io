@@ -652,7 +652,7 @@ Nandito lang ako palagi for you. 💛
 },
 {
   date: "December 4, 2025",
-  title: "Day Thirty-Nine — Just Thinking of You",
+  title: "Day Forty — Just Thinking of You",
   content: `Hi honey,
 
 Good morning po. I just wanted to write something today, na-miss lang po kita hehe. 
@@ -665,7 +665,7 @@ Take care honey. Talk to you later. 💛
 },
 {
   date: "December 5, 2025",
-  title: "Day Forty — Your Well-Deserved Rest",
+  title: "Day Forty-One — Your Well-Deserved Rest",
   content: `Dear honey koo,
 
 Finally, vacant day mo today. Makakapag rest ka naman grabe yung week mo, tapos defense pa kahapon. Deserve mo talaga mag-relax ngayon pooo.
@@ -680,7 +680,7 @@ Enjoy your rest today, honey. You earned it. 💛
 },
 {
   date: "December 6, 2025",
-  title: "Day Forty-One — Enjoy Your Night, Honey",
+  title: "Day Forty-Two — Enjoy Your Night, Honey",
   content: `Dear honey,
 
 Alam ko na you are having fun diyan sa taas nag kakaraoke hehe. Ang cute mo siguro honey ko diyan hehe. I am happy nag-eenjoy ka, lalo na rest day mo rin.
@@ -693,7 +693,7 @@ Sige honey, enjoy mo lang muna diyan. You deserve a fun, light night. Later tayo
 },
 {
   date: "December 7, 2025",
-  title: "Day Forty-Two — A Soft Sunday",
+  title: "Day Forty-Three — A Soft Sunday",
   content: `Dear honey kooo,
 
 Happy Sunday. Woke up today thinking about you po, sana good mood si honey ko today. I hope you’re resting well after all the restless nights. 
@@ -708,7 +708,7 @@ Later ulit, honey. Miss you ko na ang honey ko 🥺. 💛
 },
 {
   date: "December 8, 2025",
-  title: "Day Forty-Three — I'm Here, Honey",
+  title: "Day Forty-Four — I'm Here, Honey",
   content: `Hi honey,
 
 I know na wala ka sa mood, and that’s okay. Hindi naman araw-araw kailangan masaya. Minsan kailangan mo rin lang ng space, pahinga, or just a quiet day and I understand that.
@@ -825,5 +825,6 @@ document.addEventListener('keydown', (e) => {
 
 // Initialize on page load
 displayPage();
+
 
 
