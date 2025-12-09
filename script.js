@@ -721,6 +721,23 @@ I hope your day gets a little lighter, even just a bit.
 I’m here lang, honey. Always. 💛
 
 – Your Honn honnn`  
+},
+{
+  date: "December 9, 2025",
+  title: "Day Forty-Five — Get Well Soon, Honey",
+  content: `Hi honey,
+
+May sakit ka parin po ata today, and I'm really worried sa condition mo po. I don’t like seeing you unwell, kahit hindi ko man nakikita in person. I just hope you're resting and taking it easy.
+
+Please slow down today ha. Wag mo pilitin sarili mo pahinga ka lang muna, drink water, and let your body recover. Mas mahalaga health mo kaysa kahit anong ibang bagay.
+
+I’m thinking of you the whole day. Kahit wala masyado replies, okay lang po. Mas gusto ko na nagpapahinga ka and getting better.
+
+Get well soon, honey.  
+Sana gumaan pakiramdam mo little by little.  
+I’m here lang, always. 💛
+
+– Your Honn honnn`  
 }
 
 ];    // `Add more letters here! Just copy the format above
