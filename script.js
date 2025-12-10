@@ -738,6 +738,26 @@ Sana gumaan pakiramdam mo little by little.
 I’m here lang, always. 💛
 
 – Your Honn honnn`  
+},
+{
+  date: "December 10, 2025",
+  title: "Day Forty-Six — Thank You, Honey",
+  content: `Dear honey kooo,
+
+Gusto ko lang magpasalamat sa'yo today. Thank you for always supporting me sa mga capstone ko, work, at kahit sa times na stressed out ako.  
+
+Hindi mo alam kung gaano kalaking bagay yung presence mo sa akin. 
+
+And sorry po pala if lately delayed mga letters ko po, dapat every morning meron nagiging hapon or gabi ko na po nagagawa.
+I'll promise every morning meron na po ulit, na busy lang po me hehe.
+
+I really appreciate you, honey.  
+Thank you for being patient with me, for understanding me, and for choosing to stay.  
+
+Promise I won’t forget every small thing you do.  
+I’m really grateful for you, always. 💛
+
+– Your Honn honnn`  
 }
 
 ];    // `Add more letters here! Just copy the format above
