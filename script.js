@@ -758,6 +758,21 @@ Promise I won’t forget every small thing you do.
 I’m really grateful for you, always. 💛
 
 – Your Honn honnn`  
+},
+{
+  date: "December 11, 2025",
+  title: "Day Forty-Seven — Good Luck, Honey",
+  content: `Hi honey,
+
+Good luck sa finals mo today po. I know kaya mo 'yan, I know kasi hardworking ka talaga and you always give your best.
+
+Hindi mo kailangan ma pressure. Just breathe, focus, and trust yourself.  
+Nakita ko naman kung gaano ka nag-effort, so I'm already proud of you even before you start.
+
+Andito lang ako cheering and supporting my lalabs.  
+I believe in you, always. 💛
+
+– Your Honn honnn`  
 }
 
 ];    // `Add more letters here! Just copy the format above
