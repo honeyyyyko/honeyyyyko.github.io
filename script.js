@@ -773,6 +773,20 @@ Andito lang ako cheering and supporting my lalabs.
 I believe in you, always. 💛
 
 – Your Honn honnn`  
+},
+{
+  date: "December 12, 2025",
+  title: "Day Forty-Eight — Review Well, Honey",
+  content: `Hi honey kooo,
+
+Review well today pooo. Huwag mo pressure sarili mo okay? One topic at a time lang po. Alam ko medj tinatamad ka na sa dami ng kailangan aralin, pero konting tiis na lang and tapos na lahat ng finals exam mo po.
+
+Kaya mo ’to, honey. You’ve made it this far, and I’m honestly so proud of how you handle everything kahit pagod ka po. I love your effort, your dedication, and how you still try your best kahit gusto mo na magpahinga.
+
+I’m cheering for you from here. If you need a breather, water break, or kahit kausap po, nandito lang ako.  
+Good luck sa review mo today, honey. You got this. 💛
+
+– Your Honn honnn`  
 }
 
 ];    // `Add more letters here! Just copy the format above
