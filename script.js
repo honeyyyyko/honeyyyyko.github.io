@@ -787,6 +787,19 @@ I’m cheering for you from here. If you need a breather, water break, or kahit 
 Good luck sa review mo today, honey. You got this. 💛
 
 – Your Honn honnn`  
+},
+{
+  date: "December 13, 2025",
+  title: "Day Forty-Nine — Good Luck Later, Honey",
+  content: `Hi honeyyy kooo,
+
+Gusto ko lang ulit mag thank you sayo. Kahit busy ka, kahit pagod ka, lagi mo pa rin akong nasusupport at naaasikaso. Hindi mo alam gaano ko ’yun na-aappreciate. Sobrang thankful ako na ikaw ’yung kasama ko every day.
+
+Good luck later sa legal, honey. Sana makasagot ka sa recitation and I know you will. Magaling ka naman talaga. Kahit anong mangyari, proud ako sayo.
+
+I’ll be cheering for you the whole time. Go, honey ko. 💛
+
+– Your Honn honnn`
 }
 
 ];    // `Add more letters here! Just copy the format above
