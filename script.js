@@ -800,7 +800,24 @@ Good luck later sa legal, honey. Sana makasagot ka sa recitation and I know you 
 I’ll be cheering for you the whole time. Go, honey ko. 💛
 
 – Your Honn honnn`
+},
+{
+  date: "December 14, 2025",
+  title: "Day Fifty — Always You Lalabsss",
+  content: `Hi honeyyy,
+
+Honeyyy, lalabs po kita, always. Wag mo po sabihin na kita labbb. 
+
+Ingat po kayo lakad niyo po today. Sana maging maayos po ang day mo, at kung mapagod ka man, sana makahanap ka rin ng time to rest.
+
+Kahit busy po ikaw sometimes, alam mo namang nandito lang ako.  
+Thinking of you, quietly cheering for you, and wishing you a good day.
+
+Miss you, my lalabs, baby, and honeyyy.
+
+– Your Honn honnn`
 }
+
 
 ];    // `Add more letters here! Just copy the format above
 
