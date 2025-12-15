@@ -816,6 +816,36 @@ Thinking of you, quietly cheering for you, and wishing you a good day.
 Miss you, my lalabs, baby, and honeyyy.
 
 – Your Honn honnn`
+},
+{
+  date: "December 15, 2025",
+  title: "Day Fifty-One — Happy Dayyy",
+  content: `Dear honey kooo,
+
+I really enjoyed our quick sponty date po.  
+Hindi man siya planned, pero I'm super happyyy. Kahit short time lang yun.
+
+I like moments like that.   
+Kahit saglit lang tayo magkasama, it made my day feel lighter and happier.
+
+Thank you for making time for me today, honey.  
+I’ll remember that little moment forever. 💛
+
+– Your Honn honnn`
+},
+{
+  date: "December 16, 2025",
+  title: "Day Fifty-Two — A Calm Day",
+  content: `Hi honey,
+
+Today felt calm, and I really liked that.  
+
+I hope you felt a bit at ease today.  
+Even if nothing special happened, I hope it still gave you space to breathe and rest.
+
+Ingat ka palagi, honey. Thinking of you, always. 🤍
+
+– Your Honn honnn`
 }
 
 
