@@ -846,6 +846,20 @@ Even if nothing special happened, I hope it still gave you space to breathe and 
 Ingat ka palagi, honey. Thinking of you, always. 🤍
 
 – Your Honn honnn`
+},
+{
+  date: "December 17, 2025",
+  title: "Day Fifty-Three — Enjoy the Party",
+  content: `Hi honey kooo,
+
+Have fun sa Christmas party today ha. Enjoy mo lang po lahat. Deserve mo ’yan after all the stress and pagod nitong mga nakaraang weeks.
+
+Don’t worry about anything, just be present and enjoy the moment. I know you’ll look really pretty today too.  
+
+Ingat ka palagi, honey.  
+Kwento mo sa’kin later pag-uwi ko ha? 🤍
+
+– Your Honn honnn`
 }
 
 
