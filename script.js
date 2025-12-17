@@ -860,6 +860,23 @@ Ingat ka palagi, honey.
 Kwento mo sa’kin later pag-uwi ko ha? 🤍
 
 – Your Honn honnn`
+},
+{
+  date: "December 18, 2025",
+  title: "Day Fifty-Four — You Got This",
+  content: `Hi honey kooo,
+
+Good luck sa exam today ha. Alam kong kayang kaya mo po 'to!
+
+Wag mo masyadong pressure sarili mo po. Take it one question at a time lang. Kung may mahirap, okay lang mag skip muna, balik ulit, tapos answer mo po ulit. Hindi mo kailangang maging perfect sapat na yung ginagawa mo yung best mo.
+
+After ng exam, sana makapagpahinga ka rin. Kumain ka nang maayos, uminom ka ng water lagi ka nalang kunti iniinom mo eh, mag-relax ka, or matulog ka kung kailangan mo pa po. Deserve mo ‘yon after everything you’ve done these past days.
+
+Gusto ko lang din malaman mo na proud ako sa’yo, hindi lang dahil sa exams or acads, pero lahat ng bagay na ginagawa mo. You are strong, at ang I love it when nakikita ko yung side mo na yun.
+
+Ingat ka today, honey. Nandito lang ako, cheering for you in my own way, praying for you, and waiting na makwento mo sa’kin kung ano nangyari sa day mo po. 🤍
+
+– Your Honn honnn`
 }
 
 
