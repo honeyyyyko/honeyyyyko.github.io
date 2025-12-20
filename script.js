@@ -892,6 +892,20 @@ Eat on time and hydrate ALWAYS! Lagi ka nalang di nainom ng water.
 Good luck sa review, honey. Nandito lang ako cheering, praying, at proud sa’yo kahit anong mangyari. 🤍
 
 – Your Honn honnn`
+},
+{
+  date: "December 20, 2025",
+  title: "Day Fifty-Six — Always Rooting for You",
+  content: `Dear honeyyy kooo,
+
+Good luck sa exam today ha. Alam kong kaya mo po yan, and I know you’ll do your best like you always do. Take your time lang po, don't pressure yourself.
+
+Gusto ko rin po mag-sorry kung minsan pakiramdam mo nawawalan na ako ng oras lately. Dami lang po kailangang gawin and busy lang po lately, pero please know na ikaw pa rin ‘yung iniisip ko kahit gaano pa ako ka busy honey ko.
+
+Thank you for understanding me, honey. I really appreciate your patience more than you know. After today, sana makapagpahinga ka rin kahit konti. Deserve mo po 'yon.
+Ingat ka today. Good luck ulit, I'm always proud of you my lalabs. 🤍
+
+– Your Honn honnn`
 }
 
 
