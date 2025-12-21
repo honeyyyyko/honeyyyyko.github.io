@@ -920,6 +920,19 @@ Today, do what you need to do lang. If you need rest, rest. Nandito lang po ako 
 Take care today, honey. 🤍
 
 – Your Honn honnn`
+},
+{
+  date: "December 22, 2025",
+  title: "Day Fifty-Eight — Christmas Break",
+  content: `Hi honeyy kooo,
+
+Finally, Christmas break na. Buti naman po, makakapag rest ka na rin kahit papano. This first sem dami mo na nagawa and na achieve, so you really deserve this break.
+
+Do what you feel like doing sleep, watch, chill, or kahit nakatulala ka mag damag wahahaha. Don't think muna mga acad stuff, just remember na xmas break mo ngayon okay?
+
+Enjoy mo lang yung break mo, honey. Nandito lang me po kahit busy hehe. Ingat ka po palagi. 🤍
+
+– Your Honn honnn`
 }
 
 
