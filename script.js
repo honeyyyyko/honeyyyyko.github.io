@@ -960,7 +960,21 @@ Sipag ng honey ko, kahit holiday season na, you still show up and do your thing.
 Take care today, ha. Kumain ka rin nang maayos and please drink a lot of water. Take care lalabs. 🤍
 
 – Your Honn honnn`
+},
+{
+  date: "December 25, 2025",
+  title: "Day Sixty-One — Merry Christmas",
+  content: `Dear honeyy kooo,
+
+Merry Christmas 🎄 Sana masaya ka today, surrounded by family, good food, at plenty of gifts. Kahit simple lang, sana ramdam mo yung saya ng Pasko.
+
+Thank you for being part of my year. Even in our simple days, malaking bagay ka na sa’kin. Honestly, ikaw yung pinaka dabest na gift na natanggap ko this year, I'm so grateful that I met you my loves.
+
+Enjoy the day, honey. Ingat palagi and have a warm, happy Christmas. 🤍
+
+– Your Honn honnn`
 }
+
 
 
 ];    // `Add more letters here! Just copy the format above
