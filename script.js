@@ -946,6 +946,20 @@ I'm looking forward sa Christmas celeb niyo riyan hehe. Hopefully, mag enjoy ka 
 Ingat ka always, honey. Thinking of you alwayssss. 🤍
 
 – Your Honn honnn`
+},
+
+{
+  date: "December 24, 2025",
+  title: "Day Sixty — Hustle Day",
+  content: `Hi honeyy kooo,
+
+I know may sideline ka today, kaya gusto ko lang sabihin na good luck and ingat ka. Sana hindi ka masyadong mapagod kahit busy.
+
+Sipag ng honey ko, kahit holiday season na, you still show up and do your thing. I'm so proud of youuu.
+
+Take care today, ha. Kumain ka rin nang maayos and please drink a lot of water. Take care lalabs. 🤍
+
+– Your Honn honnn`
 }
 
 
