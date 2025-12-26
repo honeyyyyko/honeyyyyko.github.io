@@ -973,7 +973,23 @@ Thank you for being part of my year. Even in our simple days, malaking bagay ka 
 Enjoy the day, honey. Ingat palagi and have a warm, happy Christmas. 🤍
 
 – Your Honn honnn`
+},
+{
+  date: "December 26, 2025",
+  title: "Day Sixty-Two — After Christmas",
+  content: `Hi honey,
+
+Ngayong tapos na ang Christmas, you have plenty of time to rest. Ipahinga mo yang likod mo and yang puson mo, wag ka po muna masyadong kumilos.
+
+I hope you’re "really" taking this time to rest, sagad mo na yung time mo mag pahinga honey kasi sa January back to reality na ulit. 
+
+I always think about you and your well being honey kaya ganito ako. Gusto ko lang malaman mo na kahit ganitong ordinary day, special ka pa rin sa’kin.
+
+Ingat ka palagi, lalabs. 🤍
+
+– Your Honn honnn`
 }
+
 
 
 
