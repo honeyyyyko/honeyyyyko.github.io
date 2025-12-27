@@ -988,6 +988,19 @@ I always think about you and your well being honey kaya ganito ako. Gusto ko lan
 Ingat ka palagi, lalabs. 🤍
 
 – Your Honn honnn`
+},
+{
+  date: "December 27, 2025",
+  title: "Day Sixty-Three — Checking In",
+  content: `Hi honeyyy kooo,
+
+Medyo naging busy ako earlier, pero sana naging okay ang day mo po. I hope everything went well on your side and hindi ka po napagod todayyy.
+
+Even tho na busy me, I always think about my honey and lalabs. You're always on my mind.
+
+Ingat ka palagi, honey. Rest well tonight. 🤍
+
+– Your Honn honnn`
 }
 
 
