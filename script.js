@@ -1001,6 +1001,19 @@ Even tho na busy me, I always think about my honey and lalabs. You're always on 
 Ingat ka palagi, honey. Rest well tonight. 🤍
 
 – Your Honn honnn`
+},
+{
+  date: "December 28, 2025",
+  title: "Day Sixty-Four — Please Take Care",
+  content: `Hi honeyyy kooo,
+
+I'm concerned po sa nangyari po sayo kagabi. Sana mas okay na po tummy mo compared kagabi. Ayoko pong may nararamdaman kang sakit, kahit maliit lang.
+
+Please take it easy today honey. Rest ka muna, uminom ng lots of water, at huwag mo pilitin sarili mo. Kung pwede lang, I'll hug you hanggang gumaan na po pakiramdam mo.
+
+Ingat ka palagi, honey. Nandito lang ako, always thinking of my lalabs. 🤍
+
+– Your Honn honnn`
 }
 
 
