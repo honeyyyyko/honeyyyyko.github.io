@@ -1014,7 +1014,21 @@ Please take it easy today honey. Rest ka muna, uminom ng lots of water, at huwag
 Ingat ka palagi, honey. Nandito lang ako, always thinking of my lalabs. 🤍
 
 – Your Honn honnn`
+},
+{
+  date: "December 29, 2025",
+  title: "Day Sixty-Five — Just Thinking of my Lalabs",
+  content: `Hi honeyyyy kooo,
+
+Sana mas okay ka na po today. I hope you woke up feeling lighter and mas okay na po pakiramdam mo.
+
+Nothing special today hehe. Kahit normal na day lang, ikaw pa rin yung pumapasok sa isip ko po.
+
+Take it easy, honey. Pahinga ka kung kailangan, and don’t forget to take care of yourself. 🤍
+
+– Your Honn honnn`
 }
+
 
 
 
