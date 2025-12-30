@@ -1027,10 +1027,20 @@ Nothing special today hehe. Kahit normal na day lang, ikaw pa rin yung pumapasok
 Take it easy, honey. Pahinga ka kung kailangan, and don’t forget to take care of yourself. 🤍
 
 – Your Honn honnn`
+},
+{
+  date: "December 30, 2025",
+  title: "Day Sixty-Six — Nearing the End of the Year",
+  content: `Dear honeyyy kooo,
+
+It's almost end of the year, ang bilis lang ng day hehe. Sana okay ka lang po today and feeling better na rin.
+
+Nakakatuwa lang na kahit ending na yung year, you're still the one na nasa isip ko. Kahit simple day lang po, sapat na sa’kin na alam kong okay ka.
+
+Ingat ka palagi, honey ko. Enjoy the rest of the day. 🤍
+
+– Your Honn honnn`
 }
-
-
-
 
 
 ];    // `Add more letters here! Just copy the format above
