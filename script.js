@@ -1040,7 +1040,21 @@ Nakakatuwa lang na kahit ending na yung year, you're still the one na nasa isip 
 Ingat ka palagi, honey ko. Enjoy the rest of the day. 🤍
 
 – Your Honn honnn`
+},
+{
+  date: "December 31, 2025",
+  title: "Day Sixty-Seven — Ending the Year",
+  content: `Dear honeyyy kooo,
+
+Last day of the year na. Hopefully your day went well po and hindi ka masyadong napagod.
+
+Before this year ends, gusto ko lang sabihin na I’m really thankful na dumating ka sa buhay ko. Hindi man perfect lahat, pero mas naging magaan yung taon ko dahil po sa’yo.
+
+I hope you end the year feeling calm and happy. Ingat ka mamaya, honey, and enjoy the night. 🤍
+
+– Your Honn honnn`
 }
+
 
 
 ];    // `Add more letters here! Just copy the format above
