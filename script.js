@@ -1053,6 +1053,24 @@ Before this year ends, gusto ko lang sabihin na I’m really thankful na dumatin
 I hope you end the year feeling calm and happy. Ingat ka mamaya, honey, and enjoy the night. 🤍
 
 – Your Honn honnn`
+},
+{
+  date: "January 1, 2026",
+  title: "Day Sixty-Eight — First Day of the Year",
+  content: `Hi honeyyy kooo,
+
+Happy New Year po. Sana okay ka today and hindi masyadong pagod from last night.
+
+Ang weird lang isipin na bagong taon na, pero ikaw pa rin yung unang pumasok sa isip ko paggising. Parang kahapon lang tayo yung first day tayo nag-usap, tapos ngayon kasama na kita sa pagsalubong ng bagong year.
+
+Wala naman akong malaking wish today. Gusto ko lang na maging okay ka, healthy ka, at masaya ka this year. 
+
+Thank you for being part of my 2025, honey.  
+I’m really looking forward to more days with you this 2026 and more years to come.
+
+Ingat ka palagi. 🤍
+
+– Your Honn honnn`
 }
 
 
