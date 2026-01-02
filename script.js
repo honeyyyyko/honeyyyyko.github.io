@@ -1071,6 +1071,25 @@ I’m really looking forward to more days with you this 2026 and more years to c
 Ingat ka palagi. 🤍
 
 – Your Honn honnn`
+},
+{
+  date: "January 2, 2026",
+  title: "Day Sixty-Nine — Soft Start",
+  content: `Hi honeyyy,
+ 
+Parang ang sarap lang simulan ng year with my honeyyy.
+
+Sana okay ka po today ha? Sana hindi ka po masyadong mapagod. 
+
+Wala lang, gusto ko lang sabihin na I miss you po today.  
+Sanay na po kasi ako na ikaw yung kausap ko, kinukulit ko, inaasar ko hehe.
+
+Sorry po pala if nag cry ako kagabi hehe.
+
+Take care today, honeyyy.  
+Kahit busy or tahimik yung araw mo, nandito lang po ako.
+
+– Your Honn honnn 💛`
 }
 
 
