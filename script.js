@@ -1090,6 +1090,52 @@ Take care today, honeyyy.
 Kahit busy or tahimik yung araw mo, nandito lang po ako.
 
 – Your Honn honnn 💛`
+},
+{
+  date: "January 3, 2026",
+  title: "Day Seventy — Just Another Day with You in Mind",
+  content: `Hi honey,
+
+Wala namang malaking ganap today, pero naisip pa rin kita.  
+
+Sana okay ka today po. Sana hindi ka masyadong mapagod.  
+I'm just here po, quietly cheering for you and supporting you alwayssss.
+
+Ingat always, honey. I'll be here if you need something.
+
+– Your Honn honnn 💛`
+},
+{
+  date: "January 4, 2026",
+  title: "Day Seventy-One — Happiest Dayyyy",
+  content: `Dear honeyyy kooo,
+
+Today was really nice. Yung date natin sa Eco Park, its simple pero I am overly happyyyy.  
+I enjoyed walking with you, talking about random things, and just being there kasama ka.
+
+I like seeing you relaxed, smiling, and just enjoying the moment.  
+Those are the days I want to keep.
+
+Thank you for today, honey, for the food, and also the gift. I really do appreciate it po and also yung message mo po, my heart is so happy.
+Even though na umuwi tayong pagod, nag enjoy naman tayo and super worth it ng pagod na yun.
+I love you my honeyyy 😘.
+
+– Your Honn honnn 💛`
+},
+{
+  date: "January 5, 2026",
+  title: "Day Seventy-Two — After a Good Day",
+  content: `Hi honey,
+
+I hope okay ka po ngayon and hindi ka masyadong pagod.  
+
+Wala lang, gusto ko lang sabihin na I’m grateful for moments like yesterday.  
+They make the ordinary days feel easier.
+
+Rest well later, honey.  
+You deserve it.
+
+– Your Honn honnn 💛`
 }
 
 
