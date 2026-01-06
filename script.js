@@ -1139,7 +1139,7 @@ You deserve it.
 },
 {
   date: "January 6, 2026",
-  title: "Day Seventy-Four — Last Night",
+  title: "Day Seventy-Three — Last Night",
   content: `Dear honeyyy kooo,
 
 I enjoyed last night with you po. Kahit movie lang, I'm really happy kasi kasama po kita mag watch kagabi hehe.
