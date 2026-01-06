@@ -1138,7 +1138,7 @@ You deserve it.
 – Your Honn honnn 💛`
 },
 {
-  date: "January 7, 2026",
+  date: "January 6, 2026",
   title: "Day Seventy-Four — Last Night",
   content: `Dear honeyyy kooo,
 
