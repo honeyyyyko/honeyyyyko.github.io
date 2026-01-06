@@ -1136,6 +1136,23 @@ Rest well later, honey.
 You deserve it.
 
 – Your Honn honnn 💛`
+},
+{
+  date: "January 7, 2026",
+  title: "Day Seventy-Four — Last Night",
+  content: `Dear honeyyy kooo,
+
+I enjoyed last night with you po. Kahit movie lang, I'm really happy kasi kasama po kita mag watch kagabi hehe.
+
+Sorry po pala if medyo nag-act up ako nung ginising mo po ako ☹️, I'm half asleep na po kasi ako nun sorry my honeyyy. Hindi ko naman po sinasadya, di na po mauulit yun.
+
+Honey thank you po for staying patient with me.  
+I appreciate you more than I say.
+
+Hope today goes easy on you po.  
+Wakey wakey ka na po diyann.
+
+– Your Honn honnn 💛`
 }
 
 
