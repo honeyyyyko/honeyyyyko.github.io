@@ -1153,7 +1153,38 @@ Hope today goes easy on you po.
 Wakey wakey ka na po diyann.
 
 – Your Honn honnn 💛`
+},
+{
+  date: "January 7, 2026",
+  title: "Day Seventy-Four — Morning Thoughts",
+  content: `Hi honeyyyy kooo,
+
+Wala lang, gusto ko lang sabihin na sana maging okay yung araw mo today.  
+Kung busy, just focus po muna. If medyo wala ka po gawa nandito lang po me to entertain you hehe.
+
+I just want to say na thank you my honey, you are always there for me and, you've been really good to me po.
+I will always cherish yung kabutihan and love na pinadarama mo po sa akin. I love you my honeyyy 😘.
+
+Enjoy your day poooo.
+
+– Your Honn honnn 💛`
+},
+{
+  date: "January 8, 2026",
+  title: "Day Seventy-Five — Just Passing By",
+  content: `Hi honeyyy kooo,
+
+Today was one of those days na tahimik lang, pero ikaw pa rin yung dumadaan sa isip ko from time to time.
+
+Gusto ko lang po sabuhin na good luck tomorrow sa interview mo.  
+No pressure, just be you po. I know you can make it.
+
+I just want to say sorry if yung letters po is na delay, medyo busy lang po talaga ako. I'll make up for it don't worry. 
+Enjoy your day honeyyy.
+
+– Your Honn honnn 💛`
 }
+
 
 
 
