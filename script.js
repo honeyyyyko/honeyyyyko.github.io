@@ -1183,8 +1183,48 @@ I just want to say sorry if yung letters po is na delay, medyo busy lang po tala
 Enjoy your day honeyyy.
 
 – Your Honn honnn 💛`
-}
+},
+{
+    date: "January 9, 2026",
+    title: "Day Seventy-Six — So Proud of You",
+    content: `Hi honeyyy kooo,
 
+Congrats on your interview today honey koooo!!! I know you prepared for it, and I’m really proud of you. The way you faced it says a lot already.
+
+Sana kahit papano, gumaan yung pakiramdam mo po after. Go treat yourself kahit simple lang, deserve mo po yun.
+
+I'm always here cheering and supporting for you.
+
+– Your Honn honnn 💛`
+},
+{
+    date: "January 10, 2026",
+    title: "Day Seventy-Seven — We’ll Adjust",
+    content: `Hi honeyyy kooo,
+
+I know things might start changing soon po work, schedule, lahat yan.  
+And we know na mas magiging lesser dates po natin dahil diyan, pero don't worry po.
+
+I know naman na want mo po talaga mag work and may oppurtunity na dumating so you should grab it po. I’ll still make time for you, and nandito lang naman po ako paligi.
+
+We’ll figure things out together. I'll be the one to compromise for us my honeyyyy.
+
+– Your Honn honnn 💛`
+},
+{
+    date: "January 11, 2026",
+    title: "Day Seventy-Eight — Slow Day",
+    content: `Hi honeyyy kooo,
+
+Wala lang, just checking in today. Sana okay ka lang po, sana hindi ka masyadong drained.
+
+I know medyo busy ka po today kasi ikaw taga bantay ni Gianna hehe, pero I'll be here naman poooo.
+I just want to say na you are the one of the best blessing na dumating sa life ko po and I'm super grateful for that. 
+
+Thank you always my honeyyyy. I love you poooo...
+
+– Your Honn honnn 💛`
+}
 
 
 
@@ -1290,6 +1330,7 @@ document.addEventListener('keydown', (e) => {
 
 // Initialize on page load
 displayPage();
+
 
 
 
