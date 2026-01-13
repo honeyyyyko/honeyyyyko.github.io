@@ -1224,6 +1224,36 @@ I just want to say na you are the one of the best blessing na dumating sa life k
 Thank you always my honeyyyy. I love you poooo...
 
 – Your Honn honnn 💛`
+},
+{
+  date: "January 12, 2026",
+  title: "Day Seventy-Nine — Trust the Process",
+  content: `Hi honeyy kooo,
+
+Congrats ulit 🥹 magwo-work ka na talaga.  
+Sabi ko sayo diba, trust the process lang po one step at a time, darating din.
+
+I’m really happy for you. Seeing you move forward like this makes me really proud.
+
+Celebrate this win, kahit simple lang.  
+Deserve mo yan, honey.
+
+– Your Honn honnn 💛`
+},
+{
+  date: "January 13, 2026",
+  title: "Day Eighty — First Steps",
+  content: `Hi honeyyy kooo,
+
+Good luck sa training mo today.  
+Focus ka lang diyan, gawin mo lang yung kaya mo and adapt to the environment po.
+
+Wag ka masyadong mag-overthink ha. Nandito lang po ako, support mo lang sa gilid.
+
+Message mo ako later pag tapos ka na.  
+Ingat today, honey.
+
+– Your Honn honnn 💛`
 }
 
 
