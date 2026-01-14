@@ -1254,7 +1254,25 @@ Message mo ako later pag tapos ka na.
 Ingat today, honey.
 
 – Your Honn honnn 💛`
+},
+{
+  date: "January 14, 2026",
+  title: "Day Eighty-One — Day Starter",
+  content: `Hi honeyyy kooo,
+
+New workday ulit today.  
+Work well po do your thing, learn what you can, and don’t pressure yourself too much po.
+
+Good luck sa training mo sa work. I know you’ll handle it just fine, kahit paunti-unti lang.
+
+Nandito lang po ako palagi, cheering and supporting for you.  
+Just update me if free ka lang po, don't worry about me po.
+
+Ingat today, honeyyyy.
+
+– Your Honn honnn 💛`
 }
+
 
 
 
@@ -1360,6 +1378,7 @@ document.addEventListener('keydown', (e) => {
 
 // Initialize on page load
 displayPage();
+
 
 
 
