@@ -1271,7 +1271,25 @@ Just update me if free ka lang po, don't worry about me po.
 Ingat today, honeyyyy.
 
 – Your Honn honnn 💛`
+},
+{
+  date: "January 15, 2026",
+  title: "Day Eighty-Two — Little Check-In",
+  content: `Hi honeyyy koooo,
+
+Hope everything’s going okay sa work and hindi ka masyadong napapagod po.
+
+Take things one step at a time ha, no need to rush yourself.  
+Don't pressure yourself masyado po. Just breathe from time to time.
+
+I’m here lang po not to distract you, just to remind you you’re not alone today.  
+Just focus on your work po today, and message me if you are free na po.
+
+Ingat palagi, honeyyyy.
+
+– Your Honn honnn 💛`
 }
+
 
 
 
@@ -1378,6 +1396,7 @@ document.addEventListener('keydown', (e) => {
 
 // Initialize on page load
 displayPage();
+
 
 
 
