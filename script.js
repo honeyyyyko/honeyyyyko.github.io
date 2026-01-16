@@ -1288,6 +1288,21 @@ Just focus on your work po today, and message me if you are free na po.
 Ingat palagi, honeyyyy.
 
 – Your Honn honnn 💛`
+},
+{
+  date: "January 16, 2026",
+  title: "Day Eighty-Three — I’m Sorry",
+  content: `Hi honey,
+
+Sorry po talaga kagabi. I didn’t mean it when I said na makulit ka. Hindi ko intensyon na masaktan ka or mapasama loob mo. I just want the best for you po, pero mali yung way ko ng pagbitaw ng words.
+
+I know I hurt you, and I’m really sorry for that. Di ko na uulitin, promise. I’ll be more mindful next time, mas mag-iingat ako sa mga sinasabi ko lalo na sayo.
+
+You mean a lot to me, honey, and ayokong maging reason ako ng sama ng loob mo. Thank you for your patience with me.
+
+Ingat ka today po.  
+
+– Your Honn honnn 💛`
 }
 
 
