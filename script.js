@@ -1303,6 +1303,21 @@ You mean a lot to me, honey, and ayokong maging reason ako ng sama ng loob mo. T
 Ingat ka today po.  
 
 – Your Honn honnn 💛`
+},
+{
+  date: "January 17, 2026",
+  title: "Day Eighty-Four — You Got This",
+  content: `Dear honeyyy kooo,
+
+Work well today po ha. I know kaya mo yan. You always do your best, and I’m really proud of you for that.
+
+Always remember na nandito lang ako palagi supporting you, believing in you, and cheering for you. Thank you for always being patient with me, for understanding me, and for loving me the way you do. Hindi ko ‘yon tine-take for granted.
+
+You deserve all the good things in this world, honey. I’ll cherish you always, and I promise I’ll keep working hard to give you the life you truly deserve.
+
+I love you, honey ko.  
+
+– Your Honn honnn 💛`
 }
 
 
