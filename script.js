@@ -1318,6 +1318,20 @@ You deserve all the good things in this world, honey. I’ll cherish you always,
 I love you, honey ko.  
 
 – Your Honn honnn 💛`
+},
+{
+  date: "January 18, 2026",
+  title: "Day Eighty-Five — Doing Great",
+  content: `Hi honey kooo,
+
+How was work today po? I just want you to know na you did really good today ramdam ko po yun. The way you handle things, your effort, and your attitude… I know napapabilib mo na po yung mga boss mo.
+
+Even tho wala po ako diyan, proud na proud ako sayo. You’re doing something new, challenging yourself, and still giving your best. That alone says so much about you.
+
+Pahinga ka rin po ha. You deserve it.  
+I’m always here, supporting for you honey ko.
+
+– Your Honn honnn 💛`
 }
 
 
