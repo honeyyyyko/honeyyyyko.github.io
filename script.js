@@ -1332,6 +1332,22 @@ Pahinga ka rin po ha. You deserve it.
 I’m always here, supporting for you honey ko.
 
 – Your Honn honnn 💛`
+},
+{
+  date: "January 19, 2026",
+  title: "Day Eighty-Six — Rest Day",
+  content: `Hi honeyy koooo,
+
+I’m really happy na nakapag-rest ka po today. You’ve been doing a lot lately.
+
+Sana kahit papaano, gumaan yung pakiramdam mo po. You deserve days like this.
+
+Alam mo honey I'm so proud of you po, nakita ko po kung gaano ka kasipag and determine to learn and grow pa po and it motivates me rin po.
+Even though you are really busy dahil sa work you still make time para po sa akin Thank you po and I really appreciate it honey.
+
+Enjoy the rest of the night, honey. Nandito lang po ako. I love you my honey 😘
+
+– Your Honn honnn 💛`
 }
 
 
