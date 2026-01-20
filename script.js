@@ -1348,6 +1348,21 @@ Even though you are really busy dahil sa work you still make time para po sa aki
 Enjoy the rest of the night, honey. Nandito lang po ako. I love you my honey 😘
 
 – Your Honn honnn 💛`
+},
+{
+  date: "January 20, 2026",
+  title: "Day Eighty-Seven — Proud & Thankful",
+  content: `Hi honeyyy kooo,
+
+I just want you to know how proud I am of you. Not just because of work or anything specific, but because of who you are and how you handle things.
+
+I’m also really thankful that I get to share my days with you, hear about your little stories, and be part of your life po.
+
+You motivate me more than you know, honey. And I’m grateful for you, always.
+
+Pahinga ka po later ha. Nandito lang po ako, always. No words can express how much I love you.
+
+– Your Honn honnn 💛`
 }
 
 
