@@ -1363,6 +1363,20 @@ You motivate me more than you know, honey. And I’m grateful for you, always.
 Pahinga ka po later ha. Nandito lang po ako, always. No words can express how much I love you.
 
 – Your Honn honnn 💛`
+},
+{
+  date: "January 21, 2026",
+  title: "Day Eighty-Eight — Ikaw Pa Rin",
+  content: `Dear honeyyy kooo,
+
+Kahit anong ganap po everyday, ikaw pa rin yung hinahanap-hanap ko every single dati. Kahit saglit lang po tayo mag talk or kahit simpleng update, okay na po ako dun.
+
+Sana okay yung day mo po today. If pagod ka, pahinga ka po ha. If okay ka naman, I'm happy about it po.
+
+Wala lang, gusto ko lang ipaalala na nandito lang ako palagi. And ikaw lang ang lalabs ko alwaysss. 
+I love you honey 😘.
+
+– Your Honn honnn 💛`
 }
 
 
