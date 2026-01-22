@@ -1377,6 +1377,32 @@ Wala lang, gusto ko lang ipaalala na nandito lang ako palagi. And ikaw lang ang 
 I love you honey 😘.
 
 – Your Honn honnn 💛`
+},
+{
+  date: "January 22, 2026",
+  title: "Day Eighty-Nine — Please Take Care",
+  content: `Hi honey kooo,
+
+Be more careful po ha. Napapansin ko nagkakasugat ka lately, and I worry about you. Ingat ka palagi, dahan-dahan lang lalo na pag pagod ka na.
+
+And pagaling rin po si Chiki. Sana okay na siya soon. Lambingin mo muna siya for me ha.
+
+Wala lang, gusto ko lang malaman mo na iniisip ko kayo palagi. Take care today, honey. 🤍
+
+– Your Honn honnn 💛`
+},
+{
+  date: "January 23, 2026",
+  title: "Day Ninety — You Got This",
+  content: `Hi honey kooo,
+
+Good luck sa work evaluation mo later ha. I know magiging maganda yung result niyan. Nakikita ko naman kung gaano ka kadedicated at kung paano mo ginagawa yung best mo every day.
+
+Wag ka masyadong kabahan. Just be you, sapat na yun. I’m really proud of you, sobra.
+
+Nandito lang ako today, cheering for you and praying na everything goes well. Kaya mo po ‘yan, honey ko. 🤍
+
+– Your Honn honnn 💛`
 }
 
 
