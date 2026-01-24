@@ -1403,6 +1403,19 @@ Wag ka masyadong kabahan. Just be you, sapat na yun. I’m really proud of you, 
 Nandito lang ako today, cheering for you and praying na everything goes well. Kaya mo po ‘yan, honey ko. 🤍
 
 – Your Honn honnn 💛`
+},
+{
+  date: "January 24, 2026",
+  title: "Day Ninety-One — Hoping You’re Better",
+  content: `Hi honey kooo,
+
+Hope you’re doing well today. Sana mas okay ka na po and hindi na masyado masakit yung mga sugat mo and di kana po gaano sinisipon. Please take it easy ha, just be more cautious po okay.
+
+Sana okay na rin si Chiki po. Give him a little hug for me. Nakakagaan ng loob pag alam kong pareho na kayong gumagaling.
+
+Thinking of you today, honey. Ingat palagi. I love both my babiesss. 🤍
+
+– Your Honn honnn 💛`
 }
 
 
