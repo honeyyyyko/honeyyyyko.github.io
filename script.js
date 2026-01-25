@@ -1416,6 +1416,22 @@ Sana okay na rin si Chiki po. Give him a little hug for me. Nakakagaan ng loob p
 Thinking of you today, honey. Ingat palagi. I love both my babiesss. 🤍
 
 – Your Honn honnn 💛`
+},
+{
+  date: "January 25, 2026",
+  title: "Day Ninety-Two — For You",
+  content: `Dear honey,
+
+Today, I found myself thinking about you. Wala namang big reason, you just crossed my mind, the way you always do now.
+
+I hope today treated you gently. And if it didn’t, I hope you still felt that someone cares about how you’re doing. I really admire how you keep showing up, even on days when things feel slow or tiring.
+
+I want you to know how much I value you not just in the happy moments, but even in the ordinary ones. Being part of your everyday means more to me than I can explain.
+
+Ingat ka palagi, honey.  
+I’m here, choosing you always, every single day. I love you honey kooo 😘...
+
+– Your Honn honnn 💛`
 }
 
 
