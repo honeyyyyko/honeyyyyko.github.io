@@ -1434,7 +1434,7 @@ I’m here, choosing you always, every single day. I love you honey kooo 😘...
 – Your Honn honnn 💛`
 },
 {
-  date: "January 27, 2026",
+  date: "January 26, 2026",
   title: "Day Ninety-Three — I love you and our baby",
   content: `Hi my honeyyy,
 
