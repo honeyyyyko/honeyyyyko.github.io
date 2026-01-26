@@ -1432,6 +1432,22 @@ Ingat ka palagi, honey.
 I’m here, choosing you always, every single day. I love you honey kooo 😘...
 
 – Your Honn honnn 💛`
+},
+{
+  date: "January 27, 2026",
+  title: "Day Ninety-Three — I love you and our baby",
+  content: `Hi my honeyyy,
+
+I hope you’re doing fine today. Sana nakapagrest ka po nang maayos and medyo gumaan yung pakiramdam mo kahit papaano.
+
+I hope okay na rin si Chiki po. I know you worry a lot when something’s off, kaya I just want you to know na I’m thinking of both of you. Lagi ko kayong pinagpray ikaw po at ang baby po natin.
+
+Please take care today, honey. Don’t rush yourself, don’t overdo things.  
+Nandito lang ako palagi, loving you, supporting you, and caring for you in my own way.
+
+I love you, honey… and I love our little Chiki too. 🤍
+
+– Your Honn honnn 💛`
 }
 
 
