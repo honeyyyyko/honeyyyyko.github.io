@@ -1464,6 +1464,24 @@ Ingat ka palagi, honey.
 Nandito lang po ako, always supporting you.
 
 – Your Honn honnn 💛`
+},
+{
+  date: "January 28, 2026",
+  title: "Day Ninety-Five — For You and our Little Chiki",
+  content: `Hi honey kooo,
+
+I know today is really heavy for you. I’m so sorry na lumala yung condition ng baby po natin. I know how much you love him, and seeing him like that must be breaking your heart.
+
+Please know po na I’m praying so hard for Chiki po. I’m asking God to protect him, to make him strong, and to help his little body fight whatever he’s going through. He’s such a tiny baby, but he’s also very loved especially by me and you po.
+
+I’m also praying for you, honey. Sana bigyan ka ng lakas and peace kahit sobrang worried ka ngayon. You’re doing your best for him, and that already means everything.
+
+If you feel tired, scared, or emotional, it’s okay. You don’t have to carry this alone. I’m here lang for you — to listen, to comfort you, or just to be with you in silence.
+
+Take care of yourself too, my honey.  
+I love you so much, and I’m here for both of you always.
+
+– Your Honn honnn 💛`
 }
 
 
