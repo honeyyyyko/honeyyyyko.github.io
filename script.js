@@ -1448,6 +1448,22 @@ Nandito lang ako palagi, loving you, supporting you, and caring for you in my ow
 I love you, honey… and I love our little Chiki too. 🤍
 
 – Your Honn honnn 💛`
+},
+{
+  date: "January 27, 2026",
+  title: "Day Ninety-Four — Seeing You",
+  content: `Hi honey kooo,
+
+I hope masaya ka po kanina nung dumaan ako sa cafe. Sana na-enjoy mo rin yung foods na binigay ko po hehe, kahit simple lang po.
+
+I'm happy po kasi nakita kita ulit. Kahit busy ka po kanina, okay lang sa’kin yun. I just wanted to see you, kahit saglit, and to check if you’re doing okay sa work mo.
+
+I hope okay ka lang po today and hindi ka masyadong napagod.
+
+Ingat ka palagi, honey.  
+Nandito lang po ako, always supporting you.
+
+– Your Honn honnn 💛`
 }
 
 
