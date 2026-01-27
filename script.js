@@ -1476,7 +1476,7 @@ Please know po na I’m praying so hard for Chiki po. I’m asking God to protec
 
 I’m also praying for you, honey. Sana bigyan ka ng lakas and peace kahit sobrang worried ka ngayon. You’re doing your best for him, and that already means everything.
 
-If you feel tired, scared, or emotional, it’s okay. You don’t have to carry this alone. I’m here lang for you — to listen, to comfort you, or just to be with you in silence.
+If you feel tired, scared, or emotional, it’s okay. You don’t have to carry this alone. I’m here lang for you to listen, to comfort you, or just to be with you po.
 
 Take care of yourself too, my honey.  
 I love you so much, and I’m here for both of you always.
