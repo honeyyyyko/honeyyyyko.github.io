@@ -1482,6 +1482,22 @@ Take care of yourself too, my honey.
 I love you so much, and I’m here for both of you always.
 
 – Your Honn honnn 💛`
+},
+{
+  date: "January 29, 2026",
+  title: "Day Ninety-Six — Still Here",
+  content: `Hi honeyy koo,
+
+I just want you to know na I’m still thinking about you and little Chiki today. I hope kahit papaano, mas okay ang lagay niya ngayon. I know how worried you are, and I wish I could take that worry away from you kahit konti lang po.
+
+You’re doing everything you can for him, honey. Kitang-kita kung gaano mo po siya love. Whatever happens, know that you’ve been a good furmom to him sobra pooo.
+
+Please remember to take care of yourself too. I’m here lang, always ready to listen or to be with you through this.
+
+Sending you a tight hug today.  
+I love you, honey and our baby Chiki. 🤍`
+
+– Your Honn honnn 💛`
 }
 
 
