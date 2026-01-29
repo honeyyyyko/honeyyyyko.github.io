@@ -1495,7 +1495,7 @@ You’re doing everything you can for him, honey. Kitang-kita kung gaano mo po s
 Please remember to take care of yourself too. I’m here lang, always ready to listen or to be with you through this.
 
 Sending you a tight hug today.  
-I love you, honey and our baby Chiki. 🤍`
+I love you, honey and our baby Chiki. 🤍
 
 – Your Honn honnn 💛`
 }
