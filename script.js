@@ -1498,6 +1498,21 @@ Sending you a tight hug today.
 I love you, honey and our baby Chiki. 🤍
 
 – Your Honn honnn 💛`
+},
+{
+  date: "January 30, 2026",
+  title: "Day Ninety-Seven — One Day at a Time",
+  content: `Hi honeyyy kooo,
+
+Kamusta ka today po? I know the past days haven’t been easy, especially with everything that’s been going on. I just want you to know na andito lang po ako.
+
+You don’t have to be strong all the time. Okay lang mapagod, okay lang maging tahimik, okay lang umiyak. I see you, and I understand you. 
+
+Whatever today brings, we’ll take it one step at a time. I’m proud of you for showing up every day, even when it’s hard. And I’m thankful na I get to be here for you not just on the good days, but especially on bad days.
+
+I love you, honey. I’m right here. 🤍
+
+– Your Honn honnn 💛`
 }
 
 
