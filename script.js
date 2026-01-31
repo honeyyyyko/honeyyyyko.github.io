@@ -1513,6 +1513,22 @@ Whatever today brings, we’ll take it one step at a time. I’m proud of you fo
 I love you, honey. I’m right here. 🤍
 
 – Your Honn honnn 💛`
+},
+{
+  date: "January 31, 2026",
+  title: "Day Ninety-Eight — End of the Month",
+  content: `Hi honeyy kooo,
+
+Last day of January na. Wala lang, napansin ko lang po hehe.
+
+I hope naging okay ang day mo po. Thank you for doing your thing, for showing up, and for handling what you had to handle today. I’m proud of you po.
+
+And also I'm always grateful na dumating ka sa buhay ko, you've changed me in many ways, you've made me realized how much worth I have and I'm lovable honey. It's been almost 6 months since nag start tayo from strangers and now here we are loving each other. 
+I don't have a regret shooting my shot on the most beautiful, caring and genuine woman that I encountered in my life.
+
+Rest well tonight, honey. I love you so muchhh. 🤍
+
+– Your Honn honnn 💛`
 }
 
 
