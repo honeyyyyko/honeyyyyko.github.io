@@ -1529,6 +1529,19 @@ I don't have a regret shooting my shot on the most beautiful, caring and genuine
 Rest well tonight, honey. I love you so muchhh. 🤍
 
 – Your Honn honnn 💛`
+},
+{
+  date: "February 1, 2026",
+  title: "Day Ninety-Nine — February",
+  content: `Hi honeyy kooo,
+
+February na pala. New month na po ulit. Gusto ko lang po mangamusta today. Sana okay ka lang, sana hindi ka masyadong tired, and sana you’re taking care of yourself kahit busy ka.
+
+I like knowing how your days go, kahit sa short stories lang. It makes me feel close to you, kahit may mga araw na tahimik lang tayo. Ingat ka today ha, honey. Kumain ka maayos and don’t push yourself too hard.
+
+I’m always cheering for you. I love you honeyyy.
+
+– Your Honn honnn 💛`
 }
 
 
