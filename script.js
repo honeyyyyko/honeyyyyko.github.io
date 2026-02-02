@@ -1542,6 +1542,21 @@ I like knowing how your days go, kahit sa short stories lang. It makes me feel c
 I’m always cheering for you. I love you honeyyy.
 
 – Your Honn honnn 💛`
+},
+{
+  date: "February 2, 2026",
+  title: "Day One Hundred — Today",
+  content: `Hi honeyy kooo,
+
+I know today is really hard, and I’m so sorry. Losing Chiki hurts, especially because he was just a baby and you cared so much for him. I know na mabigat po yun.
+
+I just want you to know na you’re not alone. I’m here for you po whether you feel like talking, crying, or just being quiet. You don’t have to explain anything or pretend you’re okay.
+
+You did your best for Chiki, honey. He was loved, and that matters. Please don’t be too hard on yourself.
+
+Take all the time you need today. I’m always here for you, anytime. I love you.
+
+– Your Honn honnn 💛`
 }
 
 
