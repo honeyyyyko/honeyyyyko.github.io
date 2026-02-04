@@ -1557,6 +1557,36 @@ You did your best for Chiki, honey. He was loved, and that matters. Please don�
 Take all the time you need today. I’m always here for you, anytime. I love you.
 
 – Your Honn honnn 💛`
+},
+{
+  date: "February 3, 2026",
+  title: "Day One Hundred One — Holding You",
+  content: `My honeyyy,
+
+I know you’ve been carrying a lot these past days. I wish I could take even a small part of that weight off your heart po.
+
+I just want you to know that I’m here not to fix anything but to stay. To hold space for you, to sit with you, and to remind you that you don’t have to go through anything alone.
+
+You don’t owe me strength or smiles. I love you as you are, even on days when you feel tired, sad, or unsure.
+
+I’m here, my lalabs. Always. I love you so much honey kooo.
+
+– Your Honn honnn 💛`
+},
+{
+  date: "February 4, 2026",
+  title: "Day One Hundred Two — Choosing You",
+  content: `Dear Honey kooo,
+
+Today I just want to remind you of something simple but true, I choose you. Not just when days are easy, but especially when they’re not.
+
+I choose your heart, your softness, your way of caring so deeply. I choose to walk with you through every season, even the quiet and heavy ones.
+
+If today felt a little more normal, or still a bit hard, either way, I’m grateful that you’re here. And I’m grateful that I get to love you.
+
+Take all the time you need, my honeyy. I’m not going anywhere. I always love youu gandaaa.
+
+– Your Honn honnn 💛`
 }
 
 
