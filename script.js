@@ -166,6 +166,9 @@ async function init() {
     // Fetch letters from JSONBin
     await fetchLetters();
     
+    const totalPages = Math.ceil(letters.length / 2);
+    currentPage = Math.max(totalPages - 1, 0);
+    
     // Display first page
     displayPage();
 
